@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="280" viewBox="0 0 340 280" role="img" aria-labelledby="t d"><title id="t">Animated coding companion</title><desc id="d">A friendly robot waves, blinks, and types on a laptop.</desc>
+<ellipse cx="170" cy="252" rx="119" ry="12" fill="#22d3ee" opacity=".09"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4s" repeatCount="indefinite"/>
+<path d="M169 67V43" stroke="#7598b8" stroke-width="6" stroke-linecap="round"/><circle cx="169" cy="35" r="9" fill="#22d3ee"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="97" y="64" width="145" height="106" rx="37" fill="#c4d9ea" stroke="#7395b3" stroke-width="3"/><rect x="110" y="80" width="119" height="70" rx="25" fill="#132235"/>
+<g fill="#22d3ee"><rect x="132" y="103" width="17" height="16" rx="8"><animate attributeName="height" values="16;16;3;16;16" keyTimes="0;.44;.48;.52;1" dur="5s" repeatCount="indefinite"/></rect><rect x="189" y="103" width="17" height="16" rx="8"><animate attributeName="height" values="16;16;3;16;16" keyTimes="0;.44;.48;.52;1" dur="5s" repeatCount="indefinite"/></rect></g>
+<path d="M156 129Q169 139 182 129" fill="none" stroke="#22d3ee" stroke-width="3" stroke-linecap="round"/>
+<circle cx="120" cy="130" r="7" fill="#f472b6" opacity=".2"/><circle cx="218" cy="130" r="7" fill="#f472b6" opacity=".2"/>
+<rect x="125" y="171" width="90" height="65" rx="24" fill="#a9c4d9"/><circle cx="170" cy="192" r="8" fill="#22d3ee"/>
+<g><animateTransform attributeName="transform" type="rotate" values="-8 229 182;12 229 182;-8 229 182" dur="1.6s" repeatCount="indefinite"/><path d="M222 186Q268 174 268 130" stroke="#a9c4d9" stroke-width="16" fill="none" stroke-linecap="round"/><circle cx="268" cy="121" r="13" fill="#c4d9ea"/><path d="M261 113L258 101M269 110V97M277 113L282 103" stroke="#c4d9ea" stroke-width="6" stroke-linecap="round"/></g>
+<path d="M122 189Q100 205 117 222" stroke="#a9c4d9" stroke-width="15" fill="none" stroke-linecap="round"/>
+</g>
+<path d="M83 185H240L224 242H99Z" fill="#1e344c" stroke="#426481" stroke-width="2"/><path d="M72 243H252L240 251H85Z" fill="#7598b8"/><path d="M155 207L145 216L155 225M181 207L191 216L181 225M172 205L164 227" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<g fill="#22d3ee"><circle cx="54" cy="101" r="3"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle><path d="M288 59V75M280 67H296" stroke="#a78bfa" stroke-width="2"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/></path></g></svg>
