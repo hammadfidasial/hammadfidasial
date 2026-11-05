@@ -64,56 +64,21 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 
 ## 🛠 My Toolkit
 
-<div align="center">
+<img width="100%" src="./assets/animated-toolkit.svg" alt="Animated toolkit: automation and development; application and product development; AI and knowledge systems; cloud, databases and deployment; AI coding and vibe coding; APIs and integrations." />
 
-**AUTOMATION & DEVELOPMENT**
+<details>
+<summary>View toolkit as text</summary>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-163B65?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Area | Tools & skills |
+| :--- | :--- |
+| Automation & Development | n8n · Python · SQL · Git · GitHub |
+| Application & Product Development | Full-Stack · CRM · SaaS · No-Code · Vibe Coding |
+| AI & Knowledge Systems | AI Agents · RAG · Tool Calling · Prompt Engineering · Vector Databases |
+| Cloud, Databases & Deployment | Supabase · Vercel · Cloudflare · Firebase |
+| AI Coding & Vibe Coding | Codex · Claude Code · Chat Z AI · Lovable · Trae |
+| APIs & Integrations | Meta APIs · WhatsApp · REST APIs · Webhooks · Google Workspace |
 
-**APPLICATION & PRODUCT DEVELOPMENT**
-
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-0891B2?style=for-the-badge)
-![CRM](https://img.shields.io/badge/CRM_Systems-7C3AED?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS_Products-2563EB?style=for-the-badge)
-![No-Code](https://img.shields.io/badge/No--Code_%2F_Low--Code-0F766E?style=for-the-badge)
-![Vibe Coding](https://img.shields.io/badge/AI--Assisted_%2F_Vibe_Coding-DB2777?style=for-the-badge)
-
-**AI & KNOWLEDGE SYSTEMS**
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366F1?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-334155?style=for-the-badge)
-
-**CLOUD, DATABASES & DEPLOYMENT**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
-**AI CODING & VIBE CODING**
-
-![Codex](https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Chat Z AI](https://img.shields.io/badge/Chat.z.ai-2563EB?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge)
-![Trae](https://img.shields.io/badge/Trae_IDE-10B981?style=for-the-badge)
-
-**APIs & INTEGRATIONS**
-
-![Meta APIs](https://img.shields.io/badge/Meta_APIs-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-7C3AED?style=for-the-badge)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
+</details>
 
 ## 🚀 Project Highlights
 
