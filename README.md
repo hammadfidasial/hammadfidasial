@@ -11,17 +11,17 @@
 [![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 [![Focus](https://img.shields.io/badge/FOCUS-Agentic_AI-A78BFA?style=for-the-badge)](#-what-i-build)
 
-[About](#-about-me) · [Skills](#-my-toolkit) · [Projects](#-project-highlights) · [Activity](#-github-activity)
+[About](#-about-me) · [Skills](#-my-toolkit) · [Certifications](#-training--recognition) · [Experience](#-professional-experience) · [Projects](#-project-highlights) · [Activity](#-github-activity)
 
 </div>
 
 ## 👋 About Me
 
-I'm **Hammad Hussain**, an **AI Automation & Agentic AI Developer** who also builds **CRM systems, full-stack web applications, and SaaS products**.
+<p align="justify">I'm <strong>Hammad Hussain</strong>, an <strong>AI Automation & Agentic AI Developer</strong> who also builds <strong>CRM systems, full-stack web applications, and SaaS products</strong>.</p>
 
-I combine **n8n, Python, AI agents, and APIs** with **no-code, low-code, and AI-assisted development (vibe coding)** to turn business ideas into working applications.
+<p align="justify">I combine <strong>n8n, Python, AI agents, and APIs</strong> with <strong>no-code, low-code, and AI-assisted development (vibe coding)</strong> to turn business ideas into working applications.</p>
 
-My work covers user interfaces, backend APIs, databases, dashboards, and automation — with a focus on practical business needs.
+<p align="justify">My work covers user interfaces, backend APIs, databases, dashboards, and automation — with a focus on practical business needs.</p>
 
 🎓 **BS Computer Science** · University of Southern Punjab · 2022–2026  
 🔬 **Final-year project:** Agentic AI Project Manager  
@@ -82,7 +82,10 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 
 ## 🏅 Training & Recognition
 
-<img width="100%" src="./assets/credentials-highlights.svg" alt="Prompt engineering, no-code development, AI marketing, and professional experience highlights" />
+<img width="100%" src="./assets/certification-cards.svg" alt="Rounded certification cards: One Million Prompters, 10 BeyondTahir certificates, 6 NDA certificates, and additional Generative AI Studio training" />
+
+<details open>
+<summary><b>View all certificates, credential IDs & verification links</b></summary>
 
 ### 🌍 One Million Prompters
 
@@ -127,7 +130,14 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 **Introduction to Generative AI Studio** · Google Cloud course via Simplilearn SkillUP · 2026  
 *Listed in my resume. Credential ID and verification link were not available in the reviewed materials.*
 
+</details>
+
 ## 💼 Professional Experience
+
+<img width="100%" src="./assets/experience-cards.svg" alt="Experience: E-commerce and Data Manager at PITG, January–August 2025; Research and Development Intern at Counslo, August–October 2025" />
+
+<details>
+<summary>Read experience details</summary>
 
 **E-commerce & Data Manager · Prime Information Technology Group (PITG)**  
 January–August 2025 · Multan  
@@ -137,7 +147,17 @@ Website maintenance, e-commerce operations, and product and business data manage
 August–October 2025 · Multan  
 Research into study-abroad options and student career pathways to support counselling.
 
+
+</details>
+
 ## 🚀 Project Highlights
+
+<img width="100%" src="./assets/project-cards.svg" alt="Six project cards: Agentic AI Project Manager, Counslo Admissions Platform, School Management System, AI Automation Portfolio, WhatsApp Personal Assistant, and Instagram Sales and Support Assistant" />
+
+[![Explore Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-163B65?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maharhammadhussainsial.space-z.ai)
+
+<details>
+<summary>Read project descriptions</summary>
 
 <table>
 <tr>
@@ -178,6 +198,9 @@ Services, project showcases, and document requests.
 | **Instagram Sales & Support Assistant** | Customer questions, voice messages, order workflows, and OCR-based payment confirmation for an e-commerce brand |
 
 <sub>Project source repositories are currently private. Visit my portfolio to explore my work.</sub>
+
+
+</details>
 
 ## 📈 GitHub Activity
 
