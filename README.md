@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 [![Focus](https://img.shields.io/badge/FOCUS-Agentic_AI-A78BFA?style=for-the-badge)](#-what-i-build)
 
-[About](#-about-me) · [Skills](#-my-toolkit) · [Projects](#-project-highlights) · [Demos](#-demo-showcase) · [Activity](#-github-activity)
+[About](#-about-me) · [Skills](#-my-toolkit) · [Projects](#-project-highlights) · [Activity](#-github-activity)
 
 </div>
 
@@ -84,12 +84,45 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 
 <img width="100%" src="./assets/credentials-highlights.svg" alt="Prompt engineering, no-code development, AI marketing, and professional experience highlights" />
 
-| Programme | Issuer | Document |
-| :--- | :--- | :--- |
-| **One Million Prompters** | Dubai Future Foundation & Dubai Centre for Artificial Intelligence | Certificate of completion |
-| **Certification in Prompt Engineering (BTA-CPE)** | BeyondTahir Academy | Certificate of appreciation · October 2026 |
-| **No Code: Build Anything Without Coding** | BeyondTahir Academy | Certificate of appreciation · October 2026 |
-| **AI Social Media Marketing** | NDA Digital Skills | 1.5-month course · Certificate of completion · June 2026 |
+### 🌍 One Million Prompters
+
+**Certificate of completion** · Dubai Future Foundation & Dubai Centre for Artificial Intelligence  
+Training in prompt engineering for AI systems.
+
+### 🧠 BeyondTahir Academy · 10 Certificates
+
+Issued **22 October 2026**. Document types are shown as printed on the certificates.
+
+| Programme | Certificate type |
+| :--- | :--- |
+| Introduction to Generative AI | Completion |
+| AI Agents & Automation for Beginners | Completion |
+| AI for Content Creation | Completion |
+| RAG Engineering: Build AI That Knows Your Data | Completion |
+| Intro to AI for Humans | Completion |
+| Certification in Prompt Engineering (BTA-CPE) | Appreciation |
+| No Code: Build Anything Without Coding | Appreciation |
+| AI for Students: From Learning to Earning | Appreciation |
+| AI for Doctors & Researchers | Appreciation |
+| Applied AI in Law | Appreciation |
+
+### 🎨 NDA Digital Skills · 6 Certificates
+
+Six **1.5-month courses**, with certificates of completion issued **6 June 2026**.
+
+| Programme | Certificate type |
+| :--- | :--- |
+| AI Social Media Marketing | Completion |
+| Canva & Freelancing | Completion |
+| Microsoft Office | Completion |
+| SEO Content Writing With AI | Completion |
+| Spoken English | Completion |
+| Video Editing & AI | Completion |
+
+### ☁️ Additional Training
+
+**Introduction to Generative AI Studio** · Google Cloud course via Simplilearn SkillUP · 2026  
+*Listed in my resume.*
 
 ## 💼 Professional Experience
 
@@ -142,20 +175,6 @@ Services, project showcases, and document requests.
 | **Instagram Sales & Support Assistant** | Customer questions, voice messages, order workflows, and OCR-based payment confirmation for an e-commerce brand |
 
 <sub>Project source repositories are currently private. Visit my portfolio to explore my work.</sub>
-
-## 🎬 Demo Showcase
-
-**Three concept previews of systems I can build.** These animated illustrations use fictional sample data; they are not live apps, client screenshots, or completed public projects.
-
-![Animated concept demos: AI lead assistant, CRM workspace, and document Q&A](./assets/concept-demos.svg)
-
-| Demo concept | Example workflow | Proposed stack |
-| :--- | :--- | :--- |
-| **🤖 AI Lead Assistant** | Enquiry → extract details → CRM record → reply for human review | n8n · AI model · REST APIs |
-| **📊 CRM & SaaS Workspace** | Capture lead → assign owner → track stage → follow-up | Web app · Database · API integrations |
-| **🧠 Document Q&A** | Upload document → retrieve relevant passages → answer with sources | Python · Embeddings · Vector database |
-
-**Implementation priorities:** authenticated access, input validation, protected credentials, and human approval for external actions.
 
 ## 📈 GitHub Activity
 
