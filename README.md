@@ -80,6 +80,27 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 
 </details>
 
+## 🏅 Training & Recognition
+
+<img width="100%" src="./assets/credentials-highlights.svg" alt="Prompt engineering, no-code development, AI marketing, and professional experience highlights" />
+
+| Programme | Issuer | Document |
+| :--- | :--- | :--- |
+| **One Million Prompters** | Dubai Future Foundation & Dubai Centre for Artificial Intelligence | Certificate of completion |
+| **Certification in Prompt Engineering (BTA-CPE)** | BeyondTahir Academy | Certificate of appreciation · October 2026 |
+| **No Code: Build Anything Without Coding** | BeyondTahir Academy | Certificate of appreciation · October 2026 |
+| **AI Social Media Marketing** | NDA Digital Skills | 1.5-month course · Certificate of completion · June 2026 |
+
+## 💼 Professional Experience
+
+**E-commerce & Data Manager · Prime Information Technology Group (PITG)**  
+January–August 2025 · Multan  
+Website maintenance, e-commerce operations, and product and business data management.
+
+**Research & Development Intern · Counslo**  
+August–October 2025 · Multan  
+Research into study-abroad options and student career pathways to support counselling.
+
 ## 🚀 Project Highlights
 
 <table>
@@ -112,6 +133,13 @@ Services, project showcases, and document requests.
 </td>
 </tr>
 </table>
+
+### 💬 AI Assistant Projects
+
+| Project | Work described in my resume |
+| :--- | :--- |
+| **WhatsApp Personal Assistant** | Chat-based email, contact, and calendar management using n8n and the Meta WhatsApp API |
+| **Instagram Sales & Support Assistant** | Customer questions, voice messages, order workflows, and OCR-based payment confirmation for an e-commerce brand |
 
 <sub>Project source repositories are currently private. Visit my portfolio to explore my work.</sub>
 
