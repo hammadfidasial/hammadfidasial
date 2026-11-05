@@ -11,9 +11,17 @@
 [![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 [![Focus](https://img.shields.io/badge/FOCUS-Agentic_AI-A78BFA?style=for-the-badge)](#-what-i-build)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Hammad on LinkedIn" /></a>
+<a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hammad" /></a>
+<a href="https://github.com/hammadfidasial?tab=followers"><img src="https://img.shields.io/github/followers/hammadfidasial?label=Follow&style=for-the-badge&color=163B65&logo=github" alt="GitHub followers" /></a>
+</p>
+
 [About](#-about-me) · [Skills](#-my-toolkit) · [Certifications](#-training--recognition) · [Experience](#-professional-experience) · [Projects](#-project-highlights) · [Activity](#-github-activity)
 
 </div>
+
+<img width="100%" src="./assets/developer-console.svg" alt="Animated personal introduction: AI automation, CRM, SaaS, RAG and API development" />
 
 ## 👋 About Me
 
@@ -26,6 +34,8 @@
 🎓 **BS Computer Science** · University of Southern Punjab · 2022–2026  
 🔬 **Final-year project:** Agentic AI Project Manager  
 💡 **Focus:** AI agents · CRM development · SaaS products · Business automation
+
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## ⚡ What I Build
 
@@ -61,6 +71,62 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 </td>
 </tr>
 </table>
+
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
+## 🚀 Project Highlights
+
+<img width="100%" src="./assets/project-cards.svg" alt="Six project cards: Agentic AI Project Manager, Counslo Admissions Platform, School Management System, AI Automation Portfolio, WhatsApp Personal Assistant, and Instagram Sales and Support Assistant" />
+
+[![Explore Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-163B65?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maharhammadhussainsial.space-z.ai)
+
+<details>
+<summary>Read project descriptions</summary>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 Agentic AI Project Manager</h3>
+Final-year project exploring AI-assisted project management.
+<br /><br />
+<code>Agentic AI</code> <code>Project Management</code>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Counslo Admissions Platform</h3>
+Student admissions, applications, and consultancy administration.
+<br /><br />
+<code>Admissions</code> <code>Administrative Workflows</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏫 School Management System</h3>
+Attendance, marks, report cards, and school administration.
+<br /><br />
+<code>School Operations</code> <code>Reporting</code>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 AI Automation Portfolio</h3>
+Services, project showcases, and document requests.
+<br /><br />
+<a href="https://maharhammadhussainsial.space-z.ai"><b>Explore my portfolio →</b></a>
+</td>
+</tr>
+</table>
+
+### 💬 AI Assistant Projects
+
+| Project | Work described in my resume |
+| :--- | :--- |
+| **WhatsApp Personal Assistant** | Chat-based email, contact, and calendar management using n8n and the Meta WhatsApp API |
+| **Instagram Sales & Support Assistant** | Customer questions, voice messages, order workflows, and OCR-based payment confirmation for an e-commerce brand |
+
+<sub>Project source repositories are currently private. Visit my portfolio to explore my work.</sub>
+
+
+</details>
+
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## 🛠 My Toolkit
 
@@ -117,11 +183,13 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
 </p>
 
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
 ## 🏅 Training & Recognition
 
 <img width="100%" src="./assets/certification-cards.svg" alt="Rounded certification cards: One Million Prompters, 10 BeyondTahir certificates, 6 NDA certificates, and additional Generative AI Studio training" />
 
-<details open>
+<details>
 <summary><b>View all certificates, credential IDs & verification links</b></summary>
 
 ### 🌍 One Million Prompters
@@ -169,6 +237,8 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 
 </details>
 
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
 ## 💼 Professional Experience
 
 <img width="100%" src="./assets/experience-cards.svg" alt="Experience: E-commerce and Data Manager at PITG, January–August 2025; Research and Development Intern at Counslo, August–October 2025" />
@@ -187,57 +257,7 @@ Research into study-abroad options and student career pathways to support counse
 
 </details>
 
-## 🚀 Project Highlights
-
-<img width="100%" src="./assets/project-cards.svg" alt="Six project cards: Agentic AI Project Manager, Counslo Admissions Platform, School Management System, AI Automation Portfolio, WhatsApp Personal Assistant, and Instagram Sales and Support Assistant" />
-
-[![Explore Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-163B65?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maharhammadhussainsial.space-z.ai)
-
-<details>
-<summary>Read project descriptions</summary>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🤖 Agentic AI Project Manager</h3>
-Final-year project exploring AI-assisted project management.
-<br /><br />
-<code>Agentic AI</code> <code>Project Management</code>
-</td>
-<td width="50%" valign="top">
-<h3>🎓 Counslo Admissions Platform</h3>
-Student admissions, applications, and consultancy administration.
-<br /><br />
-<code>Admissions</code> <code>Administrative Workflows</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🏫 School Management System</h3>
-Attendance, marks, report cards, and school administration.
-<br /><br />
-<code>School Operations</code> <code>Reporting</code>
-</td>
-<td width="50%" valign="top">
-<h3>🌐 AI Automation Portfolio</h3>
-Services, project showcases, and document requests.
-<br /><br />
-<a href="https://maharhammadhussainsial.space-z.ai"><b>Explore my portfolio →</b></a>
-</td>
-</tr>
-</table>
-
-### 💬 AI Assistant Projects
-
-| Project | Work described in my resume |
-| :--- | :--- |
-| **WhatsApp Personal Assistant** | Chat-based email, contact, and calendar management using n8n and the Meta WhatsApp API |
-| **Instagram Sales & Support Assistant** | Customer questions, voice messages, order workflows, and OCR-based payment confirmation for an e-commerce brand |
-
-<sub>Project source repositories are currently private. Visit my portfolio to explore my work.</sub>
-
-
-</details>
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## 📈 GitHub Activity
 
@@ -263,6 +283,13 @@ Services, project showcases, and document requests.
 [![Get in Touch](https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 
 <sub>AI Automation · Agentic AI · CRM Systems · Full-Stack Development · SaaS</sub>
+
+<details>
+<summary>Design inspiration</summary>
+
+Layout inspiration: [DenverCoder1](https://github.com/DenverCoder1), [Anmol Singh](https://github.com/anmol098), [Shahriar Shafin](https://github.com/ShahriarShafin), [Abhishek Naidu](https://github.com/abhisheknaiidu), [Caneco](https://github.com/caneco), [Gift Egwuenu](https://github.com/lauragift21), [Abhinav Sharma](https://github.com/ABSphreak), [Anurag Hazra](https://github.com/anuraghazra), and [Halfrost](https://github.com/halfrost). Custom SVG artwork is created for this profile; personal content and activity belong to Hammad Hussain.
+
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:163B65,100:0D1117&height=100&section=footer" alt="" />
 
