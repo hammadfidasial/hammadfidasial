@@ -16,13 +16,18 @@
 
 ## 👋 About Me
 
-<img align="right" width="260" src="./assets/coding-companion.svg" alt="Friendly animated robot waving and coding on a laptop" />
+<img align="right" width="240" src="./assets/coding-companion.svg" alt="Friendly animated robot waving and coding on a laptop" />
 
-I turn business ideas into connected applications using code, no-code tools, and AI-assisted development.
+I'm **Hammad Hussain**, an **AI Automation & Agentic AI Developer** based in Multan, Pakistan. I build systems that connect business tools, automate repetitive tasks, and make information easier to use.
+
+My work includes **AI agents, n8n workflows, RAG assistants, and voice agents**, with integrations across WhatsApp, Instagram, Messenger, and Google Workspace. I enjoy connecting these tools into practical workflows for customer support, sales, and daily operations.
+
+I also build **custom CRM systems, full-stack web applications, and SaaS products**. I use code, no-code tools, and AI-assisted development to turn requirements into working interfaces, databases, APIs, and dashboards.
+
+I start by understanding the process and the people using it, then build, test, and improve the solution. My background in e-commerce operations and research helps me connect technical decisions with real business needs.
 
 🎓 **BS Computer Science** · University of Southern Punjab · 2022–2026  
-📍 **Multan, Pakistan**  
-🤝 **Open to projects and collaboration**
+🤝 **Open to AI automation projects, development roles, and collaboration.**
 
 <br clear="all" />
 
