@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163B65,100:22D3EE&height=220&section=header&text=Hammad%20Hussain&fontSize=48&fontColor=FFFFFF&desc=AI%20Automation%20%7C%20Full-Stack%20%7C%20SaaS&descSize=18&descAlignY=68&fontAlignY=40" alt="Hammad Hussain — AI Automation, Full-Stack and SaaS Developer" />
+<img width="100%" src="./assets/animated-banner.svg" alt="Hammad Hussain — animated banner with AI agents, CRM, full-stack and SaaS specialties" />
 
 ### AI Agents &nbsp; / &nbsp; CRM Systems &nbsp; / &nbsp; Full-Stack & SaaS
 
@@ -89,6 +89,21 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366F1?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge)
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-334155?style=for-the-badge)
+
+**CLOUD, DATABASES & DEPLOYMENT**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+**AI CODING & VIBE CODING**
+
+![Codex](https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Chat Z AI](https://img.shields.io/badge/Chat.z.ai-2563EB?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge)
+![Trae](https://img.shields.io/badge/Trae_IDE-10B981?style=for-the-badge)
 
 **APIs & INTEGRATIONS**
 
