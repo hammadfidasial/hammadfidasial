@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163B65,100:22D3EE&height=220&section=header&text=Hammad%20Hussain&fontSize=48&fontColor=FFFFFF&desc=AI%20Automation%20%7C%20Agentic%20AI%20Developer&descSize=18&descAlignY=68&fontAlignY=40" alt="Hammad Hussain — AI Automation and Agentic AI Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163B65,100:22D3EE&height=220&section=header&text=Hammad%20Hussain&fontSize=48&fontColor=FFFFFF&desc=AI%20Automation%20%7C%20Full-Stack%20%7C%20SaaS&descSize=18&descAlignY=68&fontAlignY=40" alt="Hammad Hussain — AI Automation, Full-Stack and SaaS Developer" />
 
-### AI Agents &nbsp; / &nbsp; n8n &nbsp; / &nbsp; API Integrations
+### AI Agents &nbsp; / &nbsp; CRM Systems &nbsp; / &nbsp; Full-Stack & SaaS
 
-**I connect AI, tools, and data to simplify business operations.**
+**I build AI-powered workflows, CRM systems, and full-stack SaaS applications.**
 
 📍 Multan, Pakistan &nbsp; · &nbsp; 🤝 Open to projects & collaboration
 
@@ -17,13 +17,15 @@
 
 ## 👋 About Me
 
-I'm **Hammad Hussain**, an AI Automation Developer building practical systems with **n8n, Python, AI agents, and APIs**.
+I'm **Hammad Hussain**, an **AI Automation & Agentic AI Developer** who also builds **CRM systems, full-stack web applications, and SaaS products**.
 
-I work on customer communication, document search, and connected business workflows — bringing tools together so people can spend less time on repetitive work.
+I combine **n8n, Python, AI agents, and APIs** with **no-code, low-code, and AI-assisted development (vibe coding)** to turn business ideas into working applications.
+
+My work covers user interfaces, backend APIs, databases, dashboards, and automation — with a focus on practical business needs.
 
 🎓 **BS Computer Science** · University of Southern Punjab · 2022–2026  
 🔬 **Final-year project:** Agentic AI Project Manager  
-💡 **Interests:** Tool calling · RAG · Voice agents · Business automation
+💡 **Focus:** AI agents · CRM development · SaaS products · Business automation
 
 ## ⚡ What I Build
 
@@ -44,8 +46,18 @@ WhatsApp, Instagram, Messenger, and voice agent integrations for customer commun
 RAG, embeddings, vector databases, OCR, and document search.
 </td>
 <td width="50%" valign="top">
-<h3>🌐 Connected Applications</h3>
-Websites, dashboards, and administrative portals connected to APIs and automation.
+<h3>🌐 Full-Stack Web Applications</h3>
+User interfaces, backend APIs, databases, dashboards, and administrative portals.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Custom CRM Systems</h3>
+Lead tracking, customer records, sales pipelines, follow-ups, and workflow automation.
+</td>
+<td width="50%" valign="top">
+<h3>🚀 SaaS & Product Development</h3>
+MVPs and SaaS applications built with code, no-code tools, and AI-assisted development.
 </td>
 </tr>
 </table>
@@ -61,6 +73,14 @@ Websites, dashboards, and administrative portals connected to APIs and automatio
 ![SQL](https://img.shields.io/badge/SQL-163B65?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**APPLICATION & PRODUCT DEVELOPMENT**
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-0891B2?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM_Systems-7C3AED?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/SaaS_Products-2563EB?style=for-the-badge)
+![No-Code](https://img.shields.io/badge/No--Code_%2F_Low--Code-0F766E?style=for-the-badge)
+![Vibe Coding](https://img.shields.io/badge/AI--Assisted_%2F_Vibe_Coding-DB2777?style=for-the-badge)
 
 **AI & KNOWLEDGE SYSTEMS**
 
@@ -132,13 +152,13 @@ Services, project showcases, and document requests.
 
 <div align="center">
 
-### Have a workflow that needs automation?
+### Have an app idea or a workflow to automate?
 
-**Let's turn it into a useful system.**
+**Let's build your CRM, SaaS product, or AI automation system.**
 
 [![Get in Touch](https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 
-<sub>AI Automation · Agentic AI · API Integrations · Business Workflows</sub>
+<sub>AI Automation · Agentic AI · CRM Systems · Full-Stack Development · SaaS</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:163B65,100:0D1117&height=100&section=footer" alt="" />
 
