@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="710" viewBox="0 0 960 710" role="img" aria-labelledby="title desc">
+<title id="title">Illustrative AI automation, CRM and RAG demos</title>
+<desc id="desc">Three animated concept previews with fictional sample data. These are interface illustrations, not live applications or client screenshots.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#15243a"/></linearGradient></defs>
+<rect width="960" height="710" rx="18" fill="url(#bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="32" y="38" fill="#f0f6fc" font-size="23" font-weight="700">From idea to connected system</text>
+<text x="32" y="64" fill="#94a3b8" font-size="13">CONCEPT DEMOS · FICTIONAL SAMPLE DATA · ANIMATED UI PREVIEWS</text>
+<rect x="24" y="88" width="912" height="175" rx="12" fill="#111c2d" stroke="#263c53"/>
+<text x="44" y="118" fill="#67e8f9" font-size="18" font-weight="700">01 / AI Lead Assistant</text>
+<text x="44" y="141" fill="#94a3b8" font-size="13">Capture an enquiry, collect details, and prepare a reply for review.</text>
+<g font-size="14" fill="#e2e8f0" text-anchor="middle">
+<rect x="44" y="162" width="180" height="48" rx="8" fill="#173449"/><text x="134" y="191">New enquiry</text>
+<rect x="270" y="162" width="180" height="48" rx="8" fill="#243154"/><text x="360" y="191">AI extracts details</text>
+<rect x="496" y="162" width="180" height="48" rx="8" fill="#243154"/><text x="586" y="191">Update CRM</text>
+<rect x="722" y="162" width="190" height="48" rx="8" fill="#173f3e"/><text x="817" y="191">Review draft reply</text>
+</g>
+<path d="M224 186H270M450 186H496M676 186H722" stroke="#22d3ee" stroke-width="2" fill="none"/>
+<circle r="4" fill="#67e8f9"><animateMotion path="M224 186H270M450 186H496M676 186H722" dur="4s" repeatCount="indefinite"/></circle>
+<text x="44" y="242" fill="#a5b4fc" font-size="13">Example: “I need a CRM for my team.” → Intent: CRM enquiry → Draft ready for approval</text>
+<rect x="24" y="279" width="912" height="205" rx="12" fill="#111c2d" stroke="#263c53"/>
+<text x="44" y="310" fill="#c4b5fd" font-size="18" font-weight="700">02 / CRM &amp; SaaS Workspace</text>
+<text x="44" y="334" fill="#94a3b8" font-size="13">A sample lead pipeline with ownership, status, and scheduled follow-ups.</text>
+<g font-size="12" fill="#94a3b8"><text x="60" y="364">NEW ENQUIRY</text><text x="348" y="364">QUALIFIED</text><text x="636" y="364">FOLLOW-UP</text></g>
+<rect x="44" y="376" width="270" height="74" rx="8" fill="#173449"/>
+<rect x="332" y="376" width="270" height="74" rx="8" fill="#243154"/>
+<rect x="620" y="376" width="292" height="74" rx="8" fill="#173f3e"/>
+<g fill="#e2e8f0" font-size="14"><text x="60" y="401">Sample Co. / CRM setup</text><text x="348" y="401">Demo Studio / AI assistant</text><text x="636" y="401">Example Shop / Automation</text></g>
+<g fill="#94a3b8" font-size="12"><text x="60" y="428">Owner: Demo user · Website form</text><text x="348" y="428">Requirements collected</text><text x="636" y="428">Next action: Review proposal</text></g>
+<circle cx="893" cy="361" r="4" fill="#34d399"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+<text x="44" y="470" fill="#94a3b8" font-size="12">Illustrative stages and records. No client data or measured business results.</text>
+<rect x="24" y="500" width="912" height="183" rx="12" fill="#111c2d" stroke="#263c53"/>
+<text x="44" y="531" fill="#67e8f9" font-size="18" font-weight="700">03 / Document Q&amp;A Assistant</text>
+<rect x="44" y="548" width="250" height="111" rx="8" fill="#173449"/>
+<text x="60" y="573" fill="#e2e8f0" font-size="14">Sample handbook.pdf</text>
+<text x="60" y="598" fill="#94a3b8" font-size="12">Demo policy: 7-day return window</text>
+<text x="60" y="640" fill="#67e8f9" font-size="12">Chunk → Embed → Retrieve</text>
+<path d="M294 605H336" stroke="#22d3ee" stroke-width="2"/>
+<circle r="4" fill="#67e8f9"><animateMotion path="M294 605H336" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="336" y="548" width="576" height="111" rx="8" fill="#18283d"/>
+<text x="352" y="573" fill="#c4b5fd" font-size="14">Q: What is the return window?</text>
+<text x="352" y="600" fill="#e2e8f0" font-size="14">A: The sample policy allows returns within 7 days.</text>
+<text x="352" y="640" fill="#67e8f9" font-size="12">Source: sample handbook · Returns section</text>
+</g></svg>
