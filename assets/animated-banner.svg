@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">Hammad Hussain — AI Automation Developer</title>
+<desc id="desc">Animated circuit banner for AI agents, CRM systems, full-stack development and SaaS.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset=".65" stop-color="#10253d"/><stop offset="1" stop-color="#182347"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="960" height="300" rx="20" fill="url(#bg)"/>
+<rect width="960" height="300" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".45">
+<path d="M0 80H130L170 120H280"/><path d="M960 80H830L790 120H680"/>
+<path d="M0 230H170L210 190H280"/><path d="M960 230H790L750 190H680"/>
+<circle cx="480" cy="150" r="125" stroke-dasharray="4 22" opacity=".4">
+<animateTransform attributeName="transform" type="rotate" from="0 480 150" to="360 480 150" dur="70s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g fill="#22d3ee">
+<circle r="4"><animateMotion path="M0 80H130L170 120H280" dur="4s" repeatCount="indefinite"/></circle>
+<circle r="4"><animateMotion path="M960 80H830L790 120H680" dur="4s" begin="1s" repeatCount="indefinite"/></circle>
+<circle r="3"><animateMotion path="M0 230H170L210 190H280" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+<text x="480" y="67" fill="#22d3ee" font-size="12" letter-spacing="4">BUILD · CONNECT · AUTOMATE</text>
+<text x="480" y="130" fill="#f0f6fc" font-size="48" font-weight="700">Hammad Hussain</text>
+<text x="480" y="169" fill="#a5b4fc" font-size="20">AI Automation &amp; Agentic AI Developer</text>
+<g font-size="16" fill="#67e8f9">
+<text x="480" y="210" opacity="1">AI Agents · n8n · API Integrations<animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;.27;.33;.6;.66;.94;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="210" opacity="0">CRM Systems · Full-Stack Apps · SaaS<animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;.27;.33;.6;.66;.94;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="210" opacity="0">No-Code · Low-Code · AI-Assisted Development<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;.27;.33;.6;.66;.94;1" dur="12s" repeatCount="indefinite"/></text>
+</g>
+<text x="480" y="268" fill="#94a3b8" font-size="12" letter-spacing="2">MULTAN, PAKISTAN · OPEN TO COLLABORATION</text>
+</g>
+<rect x="200" y="239" width="560" height="2" rx="1" fill="url(#line)" opacity=".6"><animate attributeName="opacity" values=".2;.9;.2" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
