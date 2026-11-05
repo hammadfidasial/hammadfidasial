@@ -28,7 +28,14 @@ I turn business ideas into connected applications using code, no-code tools, and
 
 ## 🚀 Project Highlights
 
-<img width="100%" src="./assets/project-cards.svg" alt="Six project cards: Agentic AI Project Manager, Counslo Admissions Platform, School Management System, AI Automation Portfolio, WhatsApp Personal Assistant, and Instagram Sales and Support Assistant" />
+| Project | Purpose | Focus |
+| :--- | :--- | :--- |
+| **🤖 Agentic AI Project Manager** | Task allocation and deadline suggestions | `AI agents` `FYP` |
+| **🎓 Counslo Admissions Platform** | Admissions and consultancy administration | `Applications` `Workflows` |
+| **🏫 School Management System** | Attendance, marks, and report cards | `School operations` |
+| **💬 WhatsApp Personal Assistant** | Email, contacts, and calendar through chat | `n8n` `Meta API` |
+| **🛍️ Instagram Sales & Support** | Customer support, voice messages, orders, and payment OCR | `Conversational AI` |
+| **🌐 AI Automation Portfolio** | Services, project showcases, and document requests | `Web application` |
 
 <sub>Project source code is private.</sub>
 
@@ -89,7 +96,12 @@ I turn business ideas into connected applications using code, no-code tools, and
 
 ## 🏅 Training & Recognition
 
-<img width="100%" src="./assets/certification-cards.svg" alt="Rounded certification cards: One Million Prompters, 10 BeyondTahir certificates, 6 NDA certificates, and additional Generative AI Studio training" />
+<p>
+<img src="https://img.shields.io/badge/One_Million_Prompters-22D3EE?style=flat-square&labelColor=0D1117" alt="One Million Prompters" />
+<img src="https://img.shields.io/badge/BeyondTahir-10_Certificates-A78BFA?style=flat-square&labelColor=0D1117" alt="BeyondTahir: 10 certificates" />
+<img src="https://img.shields.io/badge/NDA-6_Certificates-34D399?style=flat-square&labelColor=0D1117" alt="NDA: 6 certificates" />
+<img src="https://img.shields.io/badge/Generative_AI_Studio-FBBF24?style=flat-square&labelColor=0D1117" alt="Generative AI Studio" />
+</p>
 
 <details>
 <summary><b>View all certificates, credential IDs & verification links</b></summary>
@@ -141,7 +153,17 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 
 ## 💼 Professional Experience
 
-<img width="100%" src="./assets/experience-cards.svg" alt="Experience: E-commerce and Data Manager at PITG, January–August 2025; Research and Development Intern at Counslo, August–October 2025" />
+**01 &nbsp; E-commerce & Data Manager**  
+**Prime Information Technology Group** · Multan  
+`JAN — AUG 2025`
+
+> Managed website maintenance, online retail operations, and product and business data.
+
+**02 &nbsp; Research & Development Intern**  
+**Counslo** · Multan  
+`AUG — OCT 2025`
+
+> Researched study-abroad options and student career pathways to support counselling.
 
 ## 📈 GitHub Activity
 
