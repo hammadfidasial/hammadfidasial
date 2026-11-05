@@ -64,21 +64,58 @@ MVPs and SaaS applications built with code, no-code tools, and AI-assisted devel
 
 ## 🛠 My Toolkit
 
-<img width="100%" src="./assets/animated-toolkit.svg" alt="Animated toolkit: automation and development; application and product development; AI and knowledge systems; cloud, databases and deployment; AI coding and vibe coding; APIs and integrations." />
+<p align="center"><b>AUTOMATION &amp; DEVELOPMENT</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<details>
-<summary>View toolkit as text</summary>
+<p align="center"><b>APPLICATION &amp; PRODUCT DEVELOPMENT</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-0891B2?style=for-the-badge" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/CRM-7C3AED?style=for-the-badge" alt="CRM" />
+  <img src="https://img.shields.io/badge/SaaS-2563EB?style=for-the-badge" alt="SaaS" />
+  <img src="https://img.shields.io/badge/No--Code-0F766E?style=for-the-badge" alt="No-Code" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-DB2777?style=for-the-badge" alt="Vibe Coding" />
+</p>
 
-| Area | Tools & skills |
-| :--- | :--- |
-| Automation & Development | n8n · Python · SQL · Git · GitHub |
-| Application & Product Development | Full-Stack · CRM · SaaS · No-Code · Vibe Coding |
-| AI & Knowledge Systems | AI Agents · RAG · Tool Calling · Prompt Engineering · Vector Databases |
-| Cloud, Databases & Deployment | Supabase · Vercel · Cloudflare · Firebase |
-| AI Coding & Vibe Coding | Codex · Claude Code · Chat Z AI · Lovable · Trae |
-| APIs & Integrations | Meta APIs · WhatsApp · REST APIs · Webhooks · Google Workspace |
+<p align="center"><b>AI &amp; KNOWLEDGE SYSTEMS</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-6366F1?style=for-the-badge" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-334155?style=for-the-badge" alt="Vector Databases" />
+</p>
 
-</details>
+<p align="center"><b>CLOUD, DATABASES &amp; DEPLOYMENT</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+<p align="center"><b>AI CODING &amp; VIBE CODING</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Chat%20Z%20AI-2563EB?style=for-the-badge" alt="Chat Z AI" />
+  <img src="https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Trae-10B981?style=for-the-badge" alt="Trae" />
+</p>
+
+<p align="center"><b>APIs &amp; INTEGRATIONS</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Meta%20APIs-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta APIs" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-7C3AED?style=for-the-badge" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
+</p>
 
 ## 🏅 Training & Recognition
 
