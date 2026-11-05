@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 [![Focus](https://img.shields.io/badge/FOCUS-Agentic_AI-A78BFA?style=for-the-badge)](#-what-i-build)
 
-[About](#-about-me) · [Skills](#-my-toolkit) · [Projects](#-project-highlights) · [Activity](#-github-activity)
+[About](#-about-me) · [Skills](#-my-toolkit) · [Projects](#-project-highlights) · [Demos](#-demo-showcase) · [Activity](#-github-activity)
 
 </div>
 
@@ -149,6 +149,20 @@ Services, project showcases, and document requests.
 </table>
 
 <sub>Project source repositories are currently private. Visit my portfolio to explore my work.</sub>
+
+## 🎬 Demo Showcase
+
+**Three concept previews of systems I can build.** These animated illustrations use fictional sample data; they are not live apps, client screenshots, or completed public projects.
+
+![Animated concept demos: AI lead assistant, CRM workspace, and document Q&A](./assets/concept-demos.svg)
+
+| Demo concept | Example workflow | Proposed stack |
+| :--- | :--- | :--- |
+| **🤖 AI Lead Assistant** | Enquiry → extract details → CRM record → reply for human review | n8n · AI model · REST APIs |
+| **📊 CRM & SaaS Workspace** | Capture lead → assign owner → track stage → follow-up | Web app · Database · API integrations |
+| **🧠 Document Q&A** | Upload document → retrieve relevant passages → answer with sources | Python · Embeddings · Vector database |
+
+**Implementation priorities:** authenticated access, input validation, protected credentials, and human approval for external actions.
 
 ## 📈 GitHub Activity
 
