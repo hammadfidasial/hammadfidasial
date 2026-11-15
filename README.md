@@ -2,6 +2,12 @@
 
 <img width="100%" src="./assets/animated-banner.svg" alt="Hammad Hussain — animated banner with AI agents, CRM, full-stack and SaaS specialties" />
 
+<img src="./assets/hammad-hussain.jpg" width="136" height="136" alt="Portrait of Hammad Hussain" />
+
+### AI Automation & Agentic AI Developer
+
+I build AI agents that run your business workflows.
+
 [![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://maharhammadhussainsial.space-z.ai)
 
 <p align="center">
@@ -16,8 +22,6 @@
 
 ## 👋 About Me
 
-<img align="right" width="180" src="./assets/hammad-hussain.jpg" alt="Hammad Hussain" />
-
 I'm **Hammad Hussain**, an **AI Automation & Agentic AI Developer** based in Multan, Pakistan. I build systems that connect business tools, automate repetitive tasks, and make information easier to use.
 
 My work includes **AI agents, n8n workflows, RAG assistants, and voice agents**, with integrations across WhatsApp, Instagram, Messenger, and Google Workspace. I enjoy connecting these tools into practical workflows for customer support, sales, and daily operations.
@@ -29,13 +33,20 @@ I start by understanding the process and the people using it, then build, test, 
 🎓 **BS Computer Science** · University of Southern Punjab · 2022–2026  
 🤝 **Open to AI automation projects, development roles, and collaboration.**
 
-<br clear="all" />
-
 ## 🚀 Project Highlights
+
+### 🏫 KPS School Portal
+
+A school management portal for Khatoon-e-Pakistan Government Girls Secondary School in Karachi. Staff manage enrollment, attendance, timetables, and exam marks. Principals approve results, and parents can view published results for their linked children.
+
+`Next.js` · `TypeScript` · `Supabase` · `Vercel`
+
+[![Open KPS School Portal](https://img.shields.io/badge/Open_KPS_School_Portal-163B65?style=for-the-badge)](https://kps-school-portal.vercel.app/login)
+
+### More projects
 
 | Project | Purpose | Focus |
 | :--- | :--- | :--- |
-| **🏫 [KPS School Portal](https://kps-school-portal.vercel.app/login)** | Role-based school portal for attendance, timetables, enrollment, marks approval, and parent access to their children's results | `Next.js` `TypeScript` `Supabase` `Vercel` |
 | **🤖 Agentic AI Project Manager** | Task allocation and deadline suggestions | `AI agents` `FYP` |
 | **🎓 Counslo Admissions Platform** | Admissions and consultancy administration | `Applications` `Workflows` |
 | **🏫 School Management System** | Attendance, marks, and report cards | `School operations` |
