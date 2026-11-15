@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="240" src="./assets/coding-companion.svg" alt="Friendly animated robot waving and coding on a laptop" />
+<img align="right" width="180" src="./assets/hammad-hussain.jpg" alt="Hammad Hussain" />
 
 I'm **Hammad Hussain**, an **AI Automation & Agentic AI Developer** based in Multan, Pakistan. I build systems that connect business tools, automate repetitive tasks, and make information easier to use.
 
