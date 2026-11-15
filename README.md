@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/animated-banner.svg" alt="Hammad Hussain — AI automation, agents, CRM, and full-stack development" />
+<img width="100%" src="./assets/profile-motion.svg" alt="Hammad Hussain — AI automation, agents, CRM, and full-stack development" />
 
 <img src="./assets/hammad-hussain.jpg" width="144" height="144" alt="Portrait of Hammad Hussain" />
 
@@ -32,6 +32,8 @@ My background in e-commerce operations and research informs how I design and tes
 ## 🚀 Project Highlights
 
 ### 🏫 KPS School Portal
+
+![KPS results workflow: Teacher enters marks, Principal approves, Parent views results](./assets/kps-results-motion.svg)
 
 A school management portal for Khatoon-e-Pakistan Government Girls Secondary School in Karachi. Staff manage enrollment, attendance, timetables, and exam marks. Principals approve results, and parents can view published results for their linked children.
 

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 130" width="760" height="130" role="img">
+<title>KPS School Portal results workflow: Teacher enters marks, Principal approves, Parent views results</title>
+<style>
+  @media (prefers-reduced-motion: no-preference) {
+    .signal { animation: travel 2s linear infinite; }
+    .second { animation-delay: -1s; }
+  }
+  @keyframes travel { from { stroke-dashoffset: 56; } to { stroke-dashoffset: 0; } }
+</style>
+<rect x="1" y="1" width="758" height="128" rx="16" fill="#10192c" stroke="#34456e"/>
+<path d="M224 65h66m180 0h66" stroke="#52658c" stroke-width="2"/>
+<g fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 19">
+  <path class="signal" d="M224 65h66"/>
+  <path class="signal second" d="M470 65h66"/>
+</g>
+<g fill="#172641" stroke="#48618c">
+  <rect x="44" y="28" width="180" height="74" rx="11"/>
+  <rect x="290" y="28" width="180" height="74" rx="11"/>
+  <rect x="536" y="28" width="180" height="74" rx="11"/>
+</g>
+<g text-anchor="middle" font-family="system-ui, sans-serif">
+  <g fill="#f8fafc" font-size="23" font-weight="700"><text x="134" y="61">Teacher</text><text x="380" y="61">Principal</text><text x="626" y="61">Parent</text></g>
+  <g fill="#a5f3fc" font-size="17"><text x="134" y="85">Enters marks</text><text x="380" y="85">Approves results</text><text x="626" y="85">Views results</text></g>
+</g>
+</svg>
