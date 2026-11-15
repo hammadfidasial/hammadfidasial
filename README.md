@@ -35,6 +35,7 @@ I start by understanding the process and the people using it, then build, test, 
 
 | Project | Purpose | Focus |
 | :--- | :--- | :--- |
+| **🏫 [KPS School Portal](https://kps-school-portal.vercel.app/login)** | Role-based school portal for attendance, timetables, enrollment, marks approval, and parent access to their children's results | `Next.js` `TypeScript` `Supabase` `Vercel` |
 | **🤖 Agentic AI Project Manager** | Task allocation and deadline suggestions | `AI agents` `FYP` |
 | **🎓 Counslo Admissions Platform** | Admissions and consultancy administration | `Applications` `Workflows` |
 | **🏫 School Management System** | Attendance, marks, and report cards | `School operations` |
