@@ -124,6 +124,11 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 
 ## GitHub Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contributions-light.svg" width="100%" alt="Animated snake moving through Hammad Hussain's GitHub contribution calendar">
+</picture>
+
 <a href="https://github.com/hammadfidasial">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammadfidasial&amp;theme=github_dark" width="100%" alt="Hammad Hussain's GitHub contribution history and activity graph">
 </a>
