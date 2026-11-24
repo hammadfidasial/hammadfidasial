@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 272" width="960" height="272" role="img" aria-labelledby="title description">
+  <title id="title">KPS School Portal results workflow</title>
+  <desc id="description">Teacher enters marks, principal reviews and approves, parent sees results.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#081923"/><stop offset="1" stop-color="#12363A"/></linearGradient>
+  </defs>
+  <style>
+    text { font-family: system-ui, sans-serif; }
+    @media (prefers-reduced-motion: no-preference) {
+      .signal { animation: route 4s linear infinite; }
+      .node { animation: node 6s ease-in-out infinite; }
+      .second { animation-delay: 2s; }
+      .third { animation-delay: 4s; }
+    }
+    @keyframes route { to { stroke-dashoffset: -96; } }
+    @keyframes node { 0%, 75%, 100% { opacity: .25; } 25%, 45% { opacity: 1; } }
+  </style>
+  <rect width="960" height="272" rx="17" fill="url(#panel)"/>
+  <text x="37" y="41" fill="#FFCF8A" font-size="17" font-weight="700" letter-spacing="2">KPS SCHOOL PORTAL</text>
+  <text x="37" y="89" fill="#F1FFFC" font-size="35" font-weight="730">From marks entry to parent access</text>
+  <path d="M292 179H350M611 179H669" stroke="#4D807D" stroke-width="3" fill="none"/>
+  <path class="signal" d="M292 179H350M611 179H669" stroke="#85F1D3" stroke-width="3" stroke-dasharray="12 12" fill="none"/>
+  <g fill="#101F2A" stroke="#376262">
+    <rect x="37" y="129" width="255" height="100" rx="12"/>
+    <rect x="350" y="129" width="261" height="100" rx="12"/>
+    <rect x="669" y="129" width="254" height="100" rx="12"/>
+  </g>
+  <g fill="#8FECD5">
+    <circle class="node" cx="66" cy="158" r="6"/>
+    <circle class="node second" cx="379" cy="158" r="6"/>
+    <circle class="node third" cx="698" cy="158" r="6"/>
+  </g>
+  <g fill="#F1FFFC" font-size="26" font-weight="700">
+    <text x="81" y="168">Teacher</text>
+    <text x="394" y="168">Principal</text>
+    <text x="713" y="168">Parent</text>
+  </g>
+  <g fill="#B8D5D3" font-size="20">
+    <text x="66" y="202">Enters marks</text>
+    <text x="379" y="202">Reviews and approves</text>
+    <text x="698" y="202">Views results</text>
+  </g>
+  <path d="M37 247H923" stroke="#376262" fill="none"/>
+</svg>

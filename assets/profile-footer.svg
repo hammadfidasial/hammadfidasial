@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 86" width="960" height="86" role="img" aria-labelledby="title">
+  <title id="title">Open to AI automation projects and collaboration</title>
+  <style>
+    text { font-family: system-ui, sans-serif; }
+    @media (prefers-reduced-motion: no-preference) { .signal { animation: signal 6s linear infinite; } }
+    @keyframes signal { to { stroke-dashoffset: -364; } }
+  </style>
+  <rect width="960" height="86" rx="15" fill="#0C232B"/>
+  <path d="M24 43H206L220 32M936 43H754L740 54" stroke="#477472" fill="none"/>
+  <path class="signal" d="M24 43H206L220 32M936 43H754L740 54" stroke="#85F1D3" stroke-width="2" stroke-dasharray="45 319" fill="none"/>
+  <text x="480" y="49" text-anchor="middle" fill="#E2F7F3" font-size="23" font-weight="620">Open to AI automation projects and collaboration</text>
+</svg>
