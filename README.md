@@ -14,7 +14,7 @@
 <img src="assets/editorial/title-experience.svg" width="100%" alt="Education and experience.">
 <img src="assets/editorial/experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, 2022 to 2026. E-commerce and Data Manager at Prime Information Technology Group from January to August 2025. Research and Development Intern at Counslo from August to October 2025.">
 
-<img src="assets/editorial/title-work.svg" width="100%" alt="07 Selected Work. Applications and portfolio websites.">
+<img src="assets/editorial/title-work.svg" width="100%" alt="Selected Work. Applications and portfolio websites.">
 
 <a href="https://kps-school-portal.vercel.app/login">
   <img src="assets/editorial/project-kps.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
