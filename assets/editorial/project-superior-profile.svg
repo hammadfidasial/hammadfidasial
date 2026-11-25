@@ -25,7 +25,7 @@
     <ellipse cx="895" cy="0" rx="600" ry="495" fill="url(#glow)" opacity=".55"/>
     <rect x="650" width="550" height="365" fill="url(#grid)"/>
     <g class="enter" style="--delay:.07s">
-      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">05  ·  EDUCATION  ·  COLLEGE OPERATIONS</text>
+      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">02  ·  EDUCATION  ·  COLLEGE OPERATIONS</text>
       <text x="47" y="115" class="serif" font-size="49" fill="#F0FCF6">Superior College Portal</text>
       <text x="51" y="156" class="sans" font-size="20" fill="#ABC6BF">One campus portal for students, faculty and administration.</text>
       <text x="52" y="190" class="mono" font-size="15" fill="#A5EFCD">Classes, attendance, results and fees in one place.</text>

@@ -1,17 +1,9 @@
-<a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/editorial/profile-banner.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
-</a>
+<img src="assets/editorial/profile-banner.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
 
-<p align="center">
-  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Hammad Hussain’s portfolio"></a>
-  <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
-  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
-</p>
-
-<img src="assets/editorial/title-about.svg" width="100%" alt="About. Hello, I’m Hammad.">
+<img src="assets/editorial/title-about-profile.svg" width="100%" alt="About. Hello, I’m Hammad.">
 <img src="assets/editorial/about.svg" width="100%" alt="Hammad builds AI agents, automation workflows, and full-stack apps for sales, support and daily operations using n8n, retrieval, voice, CRMs and messaging integrations.">
 
-<img src="assets/editorial/title-experience.svg" width="100%" alt="Education and experience.">
+<img src="assets/editorial/title-experience-profile.svg" width="100%" alt="Education and experience.">
 <img src="assets/editorial/experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, 2022 to 2026. E-commerce and Data Manager at Prime Information Technology Group from January to August 2025. Research and Development Intern at Counslo from August to October 2025.">
 
 <img src="assets/editorial/title-work.svg" width="100%" alt="Selected Work. Applications and portfolio websites.">
@@ -24,20 +16,20 @@
   <img src="assets/editorial/project-kps-live.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
 </a>
 
-<a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/editorial/project-manager.svg" width="100%" alt="Agentic AI Project Manager. Suggests who should take on a task and when it could be due. AI agents, Task planning, FYP.">
+<a href="https://superior-portal-management.vercel.app/">
+  <img src="assets/editorial/project-superior-profile.svg" width="100%" alt="Open the Superior College Portal. Campus portal for students, faculty and administration.">
 </a>
 
 <a href="https://counslo-website.vercel.app/">
   <img src="assets/editorial/project-counslo-live.svg" width="100%" alt="Counslo Admissions Platform. Organizes study-abroad applications and consultancy workflows. Admissions, Applications, Workflows.">
 </a>
 
-<a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/editorial/project-whatsapp.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
+<a href="https://maharhammadhussainsial.vercel.app/#projects">
+  <img src="assets/editorial/project-manager-profile.svg" width="100%" alt="Agentic AI Project Manager. Suggests who should take on a task and when it could be due. AI agents, Task planning, FYP.">
 </a>
 
-<a href="https://superior-portal-management.vercel.app/">
-  <img src="assets/editorial/project-superior.svg" width="100%" alt="Open the Superior College Portal. Campus portal for students, faculty and administration.">
+<a href="https://maharhammadhussainsial.vercel.app/#projects">
+  <img src="assets/editorial/project-whatsapp-profile.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
 </a>
 
 ### Client portfolio websites
@@ -63,33 +55,28 @@ Repository links require GitHub access. [Private repository for Dr. Ansha Khadim
 <details>
 <summary><b>Other projects</b></summary>
 
-- **Instagram Sales & Support** · Conversational AI for support, voice messages, orders and payment OCR.
+**10 · [Instagram Sales & Support](https://maharhammadhussainsial.vercel.app/#projects)** · Conversational AI for support, voice messages, orders and payment OCR.
 
 <a href="https://lms.khatoonepakistan.workers.dev/">
-  <img src="assets/editorial/project-kps-school-website.svg" width="100%" alt="Open Khatoon-e-Pakistan School Website. Public website for Khatoon-e-Pakistan Government Girls Secondary School.">
+  <img src="assets/editorial/project-kps-school-website-profile.svg" width="100%" alt="Open Khatoon-e-Pakistan School Website. Public website for Khatoon-e-Pakistan Government Girls Secondary School.">
 </a>
 
 <a href="https://ai.hammadfidasial.workers.dev/">
-  <img src="assets/editorial/project-ai-automation-portfolio.svg" width="100%" alt="Open AI Automation Portfolio. Services, featured projects and automation demos.">
+  <img src="assets/editorial/project-ai-automation-portfolio-profile.svg" width="100%" alt="Open AI Automation Portfolio. Services, featured projects and automation demos.">
 </a>
-
 
 </details>
 
-<img src="assets/editorial/title-toolkit.svg" width="100%" alt="Toolkit. What I build with.">
+<img src="assets/editorial/title-toolkit-profile.svg" width="100%" alt="Toolkit. What I build with.">
 <img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering AI agents and retrieval, n8n and Python automation, Next.js and TypeScript, Supabase, Meta messaging APIs, databases, and AI-assisted development.">
 
-<img src="assets/editorial/title-activity.svg" width="100%" alt="Commit log. A year on GitHub.">
+<img src="assets/editorial/title-activity-profile.svg" width="100%" alt="Commit log. A year on GitHub.">
 
 <a href="https://github.com/hammadfidasial">
   <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contribution-card.svg?palette=emerald" width="100%" alt="GitHub activity for Hammad Hussain with an animated contribution snake, total contributions, active days, longest streak and busiest day. Updated daily.">
 </a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadfidasial&amp;theme=github_dark" width="44%" alt="GitHub statistics for Hammad Hussain">
-</p>
-
-<img src="assets/editorial/title-certifications.svg" width="100%" alt="Certifications and professional credentials.">
+<img src="assets/editorial/title-certifications-profile.svg" width="100%" alt="Certifications and professional credentials.">
 <img src="assets/editorial/certificates.svg" width="100%" alt="One Million Prompters, ten BeyondTahir Academy certificates, six NDA Digital Skills certificates, and Generative AI Studio from Google Cloud via Simplilearn SkillUP.">
 
 <details>
@@ -140,14 +127,11 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 
 </details>
 
-<img src="assets/editorial/title-connect.svg" width="100%" alt="Connect. Have a workflow in mind?">
+<img src="assets/editorial/title-connect-profile.svg" width="100%" alt="Connect. Have a workflow in mind?">
 
 <p align="center">
-  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Hammad Hussain’s portfolio"></a>
   <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
   <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
 </p>
 
-<a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/editorial/profile-footer.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
-</a>
+<img src="assets/editorial/profile-footer.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
