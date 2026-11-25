@@ -3,7 +3,9 @@ name: Profile contribution animation
 on:
   push:
     branches: [main]
-    paths: ['.github/workflows/profile-contributions.yml']
+    paths:
+      - .github/workflows/profile-contributions.yml
+      - .github/scripts/render_profile_activity.py
   schedule:
     - cron: '23 4 * * *'
   workflow_dispatch:
@@ -18,14 +20,38 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out the activity card renderer
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
       - name: Render the contribution calendar
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contributions-dark.svg?palette=github-dark&color_snake=%23FFCF8A&color_dots=%23132936,%231A4C50,%23287670,%2343A693,%2375E3C7
+            dist/contributions-dark.svg?palette=github-dark&color_snake=%23EAB997&color_dots=%23331B2C,%23552B46,%237C4564,%23AC688B,%23E6AAC7
             dist/contributions-light.svg?palette=github-light&color_snake=%23945D17&color_dots=%23E7F1EF,%23AFDED3,%2363B9A7,%232A847B,%23114B4A
-      - name: Publish both themes
+      - name: Add live calendar statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        shell: bash
+        run: |
+          gh api graphql -f login="$PROFILE_LOGIN" -f query='
+            query($login: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  contributionCalendar {
+                    totalContributions
+                    weeks { contributionDays { date contributionCount } }
+                  }
+                }
+              }
+            }
+          ' > dist/calendar.json
+          python3 .github/scripts/render_profile_activity.py \
+            dist/calendar.json dist/contributions-dark.svg dist/contribution-card.svg "$PROFILE_LOGIN"
+      - name: Publish contribution graphics
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
@@ -41,8 +67,8 @@ jobs:
             git -C "$publish_dir" reset --hard FETCH_HEAD
           fi
 
-          cp dist/contributions-{dark,light}.svg "$publish_dir/"
-          git -C "$publish_dir" add contributions-dark.svg contributions-light.svg
+          cp dist/contributions-{dark,light}.svg dist/contribution-card.svg "$publish_dir/"
+          git -C "$publish_dir" add contributions-dark.svg contributions-light.svg contribution-card.svg
           if git -C "$publish_dir" diff --cached --quiet; then
             exit 0
           fi

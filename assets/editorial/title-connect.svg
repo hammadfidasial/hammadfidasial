@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">CONNECT</title>
+  <desc id="desc">Have a workflow in mind?</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1"><stop stop-color="#160C13"/><stop offset=".54" stop-color="#27131F"/><stop offset="1" stop-color="#1c0d18"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#803855" stop-opacity=".64"/><stop offset="1" stop-color="#803855" stop-opacity="0"/></radialGradient>
+    <linearGradient id="type"><stop stop-color="#FFF2F6"/><stop offset="1" stop-color="#D18AAA"/></linearGradient>
+    <linearGradient id="rail"><stop stop-color="#724358" stop-opacity=".25"/><stop offset=".47" stop-color="#F1BDD1"/><stop offset="1" stop-color="#724358" stop-opacity=".25"/></linearGradient>
+    <linearGradient id="sheen"><stop stop-color="#F1BDD1" stop-opacity="0"/><stop offset=".52" stop-color="#F1BDD1" stop-opacity=".32"/><stop offset="1" stop-color="#F1BDD1" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#C887A5" stroke-opacity=".13"/></pattern>
+    <clipPath id="panel"><rect width="1200" height="120" rx="19"/></clipPath>
+  </defs>
+  <style>
+    .serif{font-family:Georgia,"Times New Roman",serif}
+    .mono{font-family:ui-monospace,"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .sans{font-family:system-ui,"Segoe UI",sans-serif}
+    .beam,.spark{display:none}
+    .border{opacity:.55}
+    @media (prefers-reduced-motion:no-preference){
+      .enter{animation:enter .85s cubic-bezier(.21,.7,.25,1) both;animation-delay:var(--delay,0s)}
+      .draw{animation:draw 1.55s ease-out both;animation-delay:var(--delay,0s)}
+      .blink{animation:blink 1.25s steps(1) infinite}
+      .beam{display:inline;animation:beam 8s linear infinite;animation-delay:var(--delay,0s)}
+      .spark{display:inline}
+      .glint{animation:glint 3.5s ease-in-out infinite;animation-delay:var(--delay,0s)}
+      .trace{stroke-dasharray:13 87;animation:trace 5.8s linear infinite;animation-delay:var(--delay,0s)}
+    }
+    @keyframes enter{from{opacity:0;transform:translateY(12px)}}
+    @keyframes draw{from{stroke-dasharray:100;stroke-dashoffset:100}to{stroke-dasharray:100;stroke-dashoffset:0}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes beam{0%,8%{transform:translateX(0);opacity:0}12%{opacity:.7}48%,100%{transform:translateX(var(--slide,1050px));opacity:0}}
+    @keyframes glint{50%{opacity:.25}}
+    @keyframes trace{to{stroke-dashoffset:-100}}
+  </style>
+  <g clip-path="url(#panel)">
+    <rect width="1200" height="120" fill="url(#base)"/>
+    <ellipse cx="895" cy="0" rx="600" ry="250" fill="url(#glow)" opacity=".55"/>
+    
+    
+    <g class="enter" style="--delay:0s">
+<text x="40" y="36" class="mono" font-size="15" fill="#C887A5" letter-spacing="2">07   CONNECT</text>
+    <text x="38" y="86" class="serif" font-size="47" fill="#FFF2F6">Have a workflow in mind?</text>
+    <text x="1160" y="36" class="mono" font-size="12" fill="#CCB4C0" text-anchor="end" letter-spacing="2">PROJECTS &amp; COLLABORATION</text>
+    </g>
+    <path class="draw" pathLength="100" d="M40 105H1135l25-20" fill="none" stroke="url(#rail)"/>
+    <path d="M1055 105h105" stroke="#724358" opacity=".65"/>
+    <rect class="beam" x="39" y="104" width="100" height="2" fill="url(#sheen)"/>
+    <rect x=".6" y=".6" width="1198.8" height="118.8" rx="18.4" fill="none" stroke="#724358" class="border"/>
+  </g>
+</svg>
