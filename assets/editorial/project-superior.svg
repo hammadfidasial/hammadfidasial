@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="title desc">
+  <title id="title">Superior College Portal</title>
+  <desc id="desc">Live campus portal for students, faculty and administration.</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1"><stop stop-color="#0D1418"/><stop offset=".54" stop-color="#14272B"/><stop offset="1" stop-color="#0E1D21"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#186B54" stop-opacity=".64"/><stop offset="1" stop-color="#186B54" stop-opacity="0"/></radialGradient>
+    <linearGradient id="rail"><stop stop-color="#315C55" stop-opacity=".25"/><stop offset=".47" stop-color="#A5EFCD"/><stop offset="1" stop-color="#315C55" stop-opacity=".25"/></linearGradient>
+    <pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#6BD8AF" stroke-opacity=".13"/></pattern>
+    <clipPath id="panel"><rect width="1200" height="365" rx="19"/></clipPath>
+  </defs>
+  <style>
+    .serif{font-family:Georgia,"Times New Roman",serif}
+    .mono{font-family:ui-monospace,"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .sans{font-family:system-ui,"Segoe UI",sans-serif}
+    .border{opacity:.55}
+    @media (prefers-reduced-motion:no-preference){
+      .enter{animation:enter .85s cubic-bezier(.21,.7,.25,1) both;animation-delay:var(--delay,0s)}
+      .draw{animation:draw 1.55s ease-out both;animation-delay:var(--delay,0s)}
+    }
+    @keyframes enter{from{opacity:0;transform:translateY(12px)}}
+    @keyframes draw{from{stroke-dasharray:100;stroke-dashoffset:100}to{stroke-dasharray:100;stroke-dashoffset:0}}
+  </style>
+  <g clip-path="url(#panel)">
+    <rect width="1200" height="365" fill="url(#base)"/>
+    <ellipse cx="895" cy="0" rx="600" ry="495" fill="url(#glow)" opacity=".55"/>
+    <rect x="650" width="550" height="365" fill="url(#grid)"/>
+    <g class="enter" style="--delay:.07s">
+      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">05  ·  EDUCATION  ·  COLLEGE OPERATIONS</text>
+      <text x="47" y="115" class="serif" font-size="49" fill="#F0FCF6">Superior College Portal</text>
+      <text x="51" y="156" class="sans" font-size="20" fill="#ABC6BF">One campus portal for students, faculty and administration.</text>
+      <text x="52" y="190" class="mono" font-size="15" fill="#A5EFCD">Classes, attendance, results and fees in one place.</text>
+    </g>
+    <path class="draw" pathLength="100" d="M50 216h632" stroke="url(#rail)" fill="none"/>
+    <g class="enter" style="--delay:.24s">
+      <text x="51" y="262" class="serif" font-size="32" fill="#F0FCF6">Students</text>
+      <text x="52" y="285" class="sans" font-size="15" fill="#ABC6BF">Timetable and results</text>
+    </g>
+    <g class="enter" style="--delay:.37s">
+      <text x="266" y="262" class="serif" font-size="32" fill="#F0FCF6">Faculty</text>
+      <text x="267" y="285" class="sans" font-size="15" fill="#ABC6BF">Attendance and marks</text>
+    </g>
+    <g class="enter" style="--delay:.50s">
+      <text x="481" y="262" class="serif" font-size="32" fill="#F0FCF6">Administration</text>
+      <text x="482" y="285" class="sans" font-size="15" fill="#ABC6BF">Admissions and fees</text>
+    </g>
+    <g class="enter" style="--delay:.56s">
+      <rect x="51" y="314" width="182" height="28" rx="14" fill="#122227" stroke="#315C55"/>
+      <text x="66" y="333" class="mono" font-size="13" fill="#A5EFCD" letter-spacing=".7">OPEN LIVE PORTAL</text>
+      <path d="M211 332l8-8m-7 0h7v7" fill="none" stroke="#A5EFCD" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(732 57)" class="enter" style="--delay:.22s">
+      <rect width="420" height="263" rx="14" fill="#122227" stroke="#315C55"/>
+      <rect x="2" y="2" width="416" height="259" rx="12" fill="url(#grid)"/>
+      <text x="21" y="30" class="mono" font-size="11" fill="#6BD8AF" letter-spacing="1.4">CAMPUS PORTALS</text>
+      <g transform="translate(21 53)">
+        <rect width="378" height="52" rx="12" fill="#122227" stroke="#315C55"/>
+        <circle cx="20" cy="26" r="4" fill="#D6EFA0"/>
+        <text x="34" y="31" class="mono" font-size="14" fill="#F0FCF6">Students</text>
+        <text x="359" y="31" class="sans" font-size="14" fill="#ABC6BF" text-anchor="end">Classes · Results · Fees</text>
+      </g>
+      <g transform="translate(21 115)">
+        <rect width="378" height="52" rx="12" fill="#122227" stroke="#315C55"/>
+        <circle cx="20" cy="26" r="4" fill="#A5EFCD"/>
+        <text x="34" y="31" class="mono" font-size="14" fill="#F0FCF6">Faculty</text>
+        <text x="359" y="31" class="sans" font-size="14" fill="#ABC6BF" text-anchor="end">Classes · Attendance · Marks</text>
+      </g>
+      <g transform="translate(21 177)">
+        <rect width="378" height="52" rx="12" fill="#122227" stroke="#315C55"/>
+        <circle cx="20" cy="26" r="4" fill="#6BD8AF"/>
+        <text x="34" y="31" class="mono" font-size="14" fill="#F0FCF6">Administration</text>
+        <text x="359" y="31" class="sans" font-size="14" fill="#ABC6BF" text-anchor="end">Academics · Publishing</text>
+      </g>
+    </g>
+    <rect x=".6" y=".6" width="1198.8" height="363.8" rx="18.4" fill="none" stroke="#315C55" class="border"/>
+  </g>
+</svg>

@@ -38,7 +38,7 @@
     <rect x="650" width="550" height="365" fill="url(#grid)"/>
     
     <g class="enter" style="--delay:.07s">
-      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">07  ·  CLIENT PORTFOLIO  ·  MEDICINE</text>
+      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">08  ·  CLIENT PORTFOLIO  ·  MEDICINE</text>
       <text x="47" y="115" class="serif" font-size="52" fill="#F0FCF6">Dr. Samraiz Ramzan Portfolio</text>
       <text x="51" y="156" class="sans" font-size="20" fill="#ABC6BF">A professional website for a physician profile.</text>
       <text x="52" y="190" class="mono" font-size="15" fill="#A5EFCD">Planned content covers medical training and clinical roles.</text>
