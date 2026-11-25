@@ -48,15 +48,15 @@
 <summary><b>Other projects</b></summary>
 
 <a href="https://maharhammadhussainsial.vercel.app/#projects">
-  <img src="assets/editorial/project-instagram-sales-support.svg" width="100%" alt="Instagram Sales &amp; Support. Conversational AI for support, voice messages, orders and payment OCR.">
+  <img src="assets/editorial/project-instagram-sales-support-card.svg" width="100%" alt="10. Instagram Sales &amp; Support. An AI assistant for Instagram sales and customer support. Handles voice messages, orders and payment receipts.">
 </a>
 
 <a href="https://lms.khatoonepakistan.workers.dev/">
-  <img src="assets/editorial/project-kps-school-website-profile.svg" width="100%" alt="Open Khatoon-e-Pakistan School Website. Public website for Khatoon-e-Pakistan Government Girls Secondary School.">
+  <img src="assets/editorial/project-kps-school-website-card.svg" width="100%" alt="11. Khatoon-e-Pakistan School Website. The public website for a government girls’ school in Karachi. School information, announcements and campus life for families.">
 </a>
 
 <a href="https://ai.hammadfidasial.workers.dev/">
-  <img src="assets/editorial/project-ai-automation-portfolio-profile.svg" width="100%" alt="Open AI Automation Portfolio. Services, featured projects and automation demos.">
+  <img src="assets/editorial/project-ai-automation-portfolio-card.svg" width="100%" alt="12. AI Automation Portfolio. A showcase of automation services, projects and prototypes. Explore AI agents, integrations and interactive demos.">
 </a>
 
 </details>
