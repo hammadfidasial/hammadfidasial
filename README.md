@@ -4,7 +4,28 @@
 <img src="assets/editorial/about.svg" width="100%" alt="Hammad builds AI agents, automation workflows, and full-stack apps for sales, support and daily operations using n8n, retrieval, voice, CRMs and messaging integrations.">
 
 <img src="assets/editorial/title-experience-profile.svg" width="100%" alt="Education and experience.">
-<img src="assets/editorial/experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, 2022 to 2026. E-commerce and Data Manager at Prime Information Technology Group from January to August 2025. Research and Development Intern at Counslo from August to October 2025.">
+<img src="assets/editorial/education-and-experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, and CTO at Counslo. Earlier experience includes e-commerce and data management and study-abroad research.">
+
+<details>
+<summary><b>Full experience and education</b></summary>
+
+| Role | Organization | Dates |
+| --- | --- | --- |
+| Chief Technology Officer | Counslo Educating Generations · Part-time | Oct 2026 – Present |
+| International Career &amp; Application Support Consultant | Counslo Educating Generations · Part-time | Oct 2026 – Present |
+| Freelance Web &amp; AI Automation Developer | Self-employed | Feb 2026 – Present |
+| Research &amp; Development Intern | Counslo Educating Generations | Aug – Oct 2025 |
+| E-Commerce &amp; Data Manager | Prime Information Technology Group | Jan – Aug 2025 |
+
+### Education
+
+| Qualification | Institution | Period | Result |
+| --- | --- | --- | --- |
+| Bachelor of Science in Computer Science (BSCS) | University of Southern Punjab, Multan | 1 Mar 2022 – 28 Feb 2026 | CGPA 3.25 · 45 courses completed |
+| Intermediate (FSc Pre-Engineering) | Global H.S.S. of Science (For Boys), Mailsi · BISE Multan | 2018–2020 | Marks 577 / 1,100 |
+| Matriculation (Science) | Govt. Public High School Dokota, Mailsi · BISE Multan | 2016–2018 | Marks 933 / 1,100 · Grade A+ |
+
+</details>
 
 <img src="assets/editorial/title-work.svg" width="100%" alt="Selected Work. Applications and portfolio websites.">
 
@@ -24,11 +45,11 @@
   <img src="assets/editorial/project-counslo-live.svg" width="100%" alt="Counslo Admissions Platform. Organizes study-abroad applications and consultancy workflows. Admissions, Applications, Workflows.">
 </a>
 
-<a href="https://maharhammadhussainsial.vercel.app/#projects">
+<a href="https://maharhammadhussainsial.vercel.app/#agentic-ai-project-manager">
   <img src="assets/editorial/project-manager-profile.svg" width="100%" alt="Agentic AI Project Manager. Suggests who should take on a task and when it could be due. AI agents, Task planning, FYP.">
 </a>
 
-<a href="https://maharhammadhussainsial.vercel.app/#projects">
+<a href="https://maharhammadhussainsial.vercel.app/#whatsapp-personal-assistant">
   <img src="assets/editorial/project-whatsapp-profile.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
 </a>
 
@@ -47,7 +68,7 @@
 <details>
 <summary><b>Other projects</b></summary>
 
-<a href="https://maharhammadhussainsial.vercel.app/#projects">
+<a href="https://maharhammadhussainsial.vercel.app/#instagram-sales-support">
   <img src="assets/editorial/project-instagram-sales-support-card.svg" width="100%" alt="10. Instagram Sales &amp; Support. An AI assistant for Instagram sales and customer support. Handles voice messages, orders and payment receipts.">
 </a>
 
@@ -63,6 +84,8 @@
 
 <img src="assets/editorial/title-toolkit-profile.svg" width="100%" alt="Toolkit. What I build with.">
 <img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering AI agents and retrieval, n8n and Python automation, Next.js and TypeScript, Supabase, Meta messaging APIs, databases, and AI-assisted development.">
+
+[Explore my expertise](https://maharhammadhussainsial.vercel.app/#expertise) · [See the full tech stack, including Flutter and Dart](https://maharhammadhussainsial.vercel.app/#skills)
 
 <img src="assets/editorial/title-activity-profile.svg" width="100%" alt="Commit log. A year on GitHub.">
 
@@ -119,6 +142,14 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 **Introduction to Generative AI Studio** · Google Cloud course via Simplilearn SkillUP · 2026  
 *Listed in my resume. Credential ID and verification link were not available in the reviewed materials.*
 
+| Additional training | Provider | Date or status |
+| --- | --- | --- |
+| Huawei Certified Cloud Developer Associate – AI (HCCDA-AI) | Corvit Systems, Multan | 2026 · Training in progress |
+| Cisco Certified Network Associate (CCNA) | Corvit Systems, Islamabad | 2021 |
+| Microsoft Certified Systems Engineer (MCSE) | Corvit Systems, Islamabad | 2021 |
+
+[Browse the 21 credentials and courses on my portfolio](https://maharhammadhussainsial.vercel.app/#certifications).
+
 </details>
 
 <img src="assets/editorial/title-connect-profile.svg" width="100%" alt="Connect. Have a workflow in mind?">
@@ -126,6 +157,9 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 <p align="center">
   <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
   <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
+  <a href="https://wa.me/923185457325?text=Hello%20Hammad%2C%20I%20would%20like%20to%20talk%20about%20automating%20my%20workflow."><img src="https://img.shields.io/badge/WhatsApp-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=whatsapp&amp;logoColor=E7FFF3" alt="WhatsApp"></a>
+  <a href="https://www.instagram.com/maharhammadhussainsial/"><img src="https://img.shields.io/badge/Instagram-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=instagram&amp;logoColor=E7FFF3" alt="Instagram"></a>
+  <a href="https://www.facebook.com/maharhammadhussainsial"><img src="https://img.shields.io/badge/Facebook-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=facebook&amp;logoColor=E7FFF3" alt="Facebook"></a>
 </p>
 
 <img src="assets/editorial/profile-footer.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
