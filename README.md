@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/portfolio-cover.webp" width="100%" alt="Hammad Hussain at his desk, as featured on his portfolio homepage. Open the live portfolio.">
+  <img src="assets/portfolio-hero-preview.svg" width="100%" alt="Hammad Hussain’s live portfolio homepage. Technology is not the destination. It’s where possibilities begin.">
 </a>
 
 <p align="center">
