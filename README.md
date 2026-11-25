@@ -14,7 +14,7 @@
 <img src="assets/editorial/title-experience.svg" width="100%" alt="Education and experience.">
 <img src="assets/editorial/experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, 2022 to 2026. E-commerce and Data Manager at Prime Information Technology Group from January to August 2025. Research and Development Intern at Counslo from August to October 2025.">
 
-<img src="assets/editorial/title-work.svg" width="100%" alt="Selected work. Four systems from idea to workflow.">
+<img src="assets/editorial/title-work.svg" width="100%" alt="Selected work. Applications and portfolio websites.">
 
 <a href="https://kps-school-portal.vercel.app/login">
   <img src="assets/editorial/project-kps.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
@@ -40,6 +40,17 @@
   <a href="https://kps-school-portal.vercel.app/login"><img src="https://img.shields.io/badge/Open%20KPS%20Portal-175746?style=for-the-badge&amp;labelColor=112023" alt="Open the KPS School Portal"></a>
   <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Explore Hammad’s projects"></a>
 </p>
+
+### Client portfolio websites
+
+| Project | Focus | Source |
+| --- | --- | --- |
+| **Dr. Ansha Khadim** | Physiotherapy portfolio | [Private GitHub repository](https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web) |
+| **Dr. Haseeb Arshad** | Medical portfolio | [Private GitHub repository](https://github.com/hammadfidasial/dr-haseeb-arshad-porfolio-web) |
+| **Dr. Samraiz Ramzan** | Physician portfolio | [Private GitHub repository](https://github.com/hammadfidasial/dr-samraiz-ramzan-portfolio-web) |
+| **Ali Safdar** | Mechanical engineering portfolio | [Private GitHub repository](https://github.com/hammadfidasial/mech-ali-safdar-portfolio-web) |
+
+Repository links require GitHub access.
 
 <details>
 <summary><b>Other projects</b></summary>
