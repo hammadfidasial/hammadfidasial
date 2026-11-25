@@ -38,6 +38,10 @@
   <img src="assets/editorial/project-ansha-khadim-portfolio.svg" width="100%" alt="Dr. Ansha Khadim Portfolio. Live professional portfolio for a physiotherapist, covering clinical practice, education and research.">
 </a>
 
+<a href="https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web">
+  <img src="assets/editorial/project-ansha-khadim-repository.svg" width="100%" alt="Dr. Ansha Khadim Portfolio Repository. Private source code repository. Access requires GitHub permission.">
+</a>
+
 <a href="https://github.com/hammadfidasial/dr-haseeb-arshad-porfolio-web">
   <img src="assets/editorial/project-haseeb-arshad.svg" width="100%" alt="Dr. Haseeb Arshad Portfolio. A professional website for a medical profile. In development. Private GitHub repository.">
 </a>
@@ -50,12 +54,12 @@
   <img src="assets/editorial/project-ali-safdar.svg" width="100%" alt="Ali Safdar Portfolio. A professional website for a mechanical engineering profile. In development. Private GitHub repository.">
 </a>
 
-Repository links require GitHub access. [Private repository for Dr. Ansha Khadim’s portfolio](https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web).
-
 <details>
 <summary><b>Other projects</b></summary>
 
-**10 · [Instagram Sales & Support](https://maharhammadhussainsial.vercel.app/#projects)** · Conversational AI for support, voice messages, orders and payment OCR.
+<a href="https://maharhammadhussainsial.vercel.app/#projects">
+  <img src="assets/editorial/project-instagram-sales-support.svg" width="100%" alt="Instagram Sales &amp; Support. Conversational AI for support, voice messages, orders and payment OCR.">
+</a>
 
 <a href="https://lms.khatoonepakistan.workers.dev/">
   <img src="assets/editorial/project-kps-school-website-profile.svg" width="100%" alt="Open Khatoon-e-Pakistan School Website. Public website for Khatoon-e-Pakistan Government Girls Secondary School.">
