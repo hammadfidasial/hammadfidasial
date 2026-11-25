@@ -51,10 +51,9 @@
 
 <img src="assets/editorial/title-activity.svg" width="100%" alt="Commit log. A year on GitHub.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contributions-light.svg" width="100%" alt="Animated snake moving through Hammad Hussain's GitHub contribution calendar">
-</picture>
+<a href="https://github.com/hammadfidasial">
+  <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contribution-card.svg" width="100%" alt="GitHub activity for Hammad Hussain with an animated contribution snake, total contributions, active days, longest streak and busiest day. Updated daily.">
+</a>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadfidasial&amp;theme=radical" width="44%" alt="GitHub statistics for Hammad Hussain">
