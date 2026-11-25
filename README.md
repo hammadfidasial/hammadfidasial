@@ -14,7 +14,7 @@
 <img src="assets/editorial/title-experience.svg" width="100%" alt="Education and experience.">
 <img src="assets/editorial/experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, 2022 to 2026. E-commerce and Data Manager at Prime Information Technology Group from January to August 2025. Research and Development Intern at Counslo from August to October 2025.">
 
-<img src="assets/editorial/title-work.svg" width="100%" alt="Selected work. Applications and portfolio websites.">
+<img src="assets/editorial/title-work.svg" width="100%" alt="07 Selected Work. Applications and portfolio websites.">
 
 <a href="https://kps-school-portal.vercel.app/login">
   <img src="assets/editorial/project-kps.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
@@ -43,12 +43,21 @@
 
 ### Client portfolio websites
 
-| Project | Focus | Source |
-| --- | --- | --- |
-| **Dr. Ansha Khadim** | Physiotherapy portfolio | [Private GitHub repository](https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web) |
-| **Dr. Haseeb Arshad** | Medical portfolio | [Private GitHub repository](https://github.com/hammadfidasial/dr-haseeb-arshad-porfolio-web) |
-| **Dr. Samraiz Ramzan** | Physician portfolio | [Private GitHub repository](https://github.com/hammadfidasial/dr-samraiz-ramzan-portfolio-web) |
-| **Ali Safdar** | Mechanical engineering portfolio | [Private GitHub repository](https://github.com/hammadfidasial/mech-ali-safdar-portfolio-web) |
+<a href="https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web">
+  <img src="assets/editorial/project-ansha-khadim.svg" width="100%" alt="Dr. Ansha Khadim Portfolio. A professional website for a physiotherapy profile. In development. Private GitHub repository.">
+</a>
+
+<a href="https://github.com/hammadfidasial/dr-haseeb-arshad-porfolio-web">
+  <img src="assets/editorial/project-haseeb-arshad.svg" width="100%" alt="Dr. Haseeb Arshad Portfolio. A professional website for a medical profile. In development. Private GitHub repository.">
+</a>
+
+<a href="https://github.com/hammadfidasial/dr-samraiz-ramzan-portfolio-web">
+  <img src="assets/editorial/project-samraiz-ramzan.svg" width="100%" alt="Dr. Samraiz Ramzan Portfolio. A professional website for a physician profile. In development. Private GitHub repository.">
+</a>
+
+<a href="https://github.com/hammadfidasial/mech-ali-safdar-portfolio-web">
+  <img src="assets/editorial/project-ali-safdar.svg" width="100%" alt="Ali Safdar Portfolio. A professional website for a mechanical engineering profile. In development. Private GitHub repository.">
+</a>
 
 Repository links require GitHub access.
 
