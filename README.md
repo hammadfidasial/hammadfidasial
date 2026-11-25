@@ -20,23 +20,17 @@
   <img src="assets/portfolio-homepage.webp" width="100%" alt="Hammad Hussain’s live portfolio homepage. Technology is not the destination. It’s where possibilities begin.">
 </a>
 
-[Open Hammad’s portfolio](https://maharhammadhussainsial.vercel.app/)
-
 <a href="https://kps-school-portal.vercel.app/login">
-  <img src="assets/editorial/project-kps.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
+  <img src="assets/editorial/project-kps-live.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
 </a>
-
-[Open KPS School Portal](https://kps-school-portal.vercel.app/login)
 
 <a href="https://maharhammadhussainsial.vercel.app/">
   <img src="assets/editorial/project-manager.svg" width="100%" alt="Agentic AI Project Manager. Suggests who should take on a task and when it could be due. AI agents, Task planning, FYP.">
 </a>
 
 <a href="https://counslo-website.vercel.app/">
-  <img src="assets/editorial/project-counslo.svg" width="100%" alt="Counslo Admissions Platform. Organizes study-abroad applications and consultancy workflows. Admissions, Applications, Workflows.">
+  <img src="assets/editorial/project-counslo-live.svg" width="100%" alt="Counslo Admissions Platform. Organizes study-abroad applications and consultancy workflows. Admissions, Applications, Workflows.">
 </a>
-
-[Open Counslo](https://counslo-website.vercel.app/)
 
 <a href="https://maharhammadhussainsial.vercel.app/">
   <img src="assets/editorial/project-whatsapp.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
@@ -46,15 +40,11 @@
   <img src="assets/editorial/project-superior.svg" width="100%" alt="Open the Superior College Portal. Campus portal for students, faculty and administration.">
 </a>
 
-[Open Superior College Portal](https://superior-portal-management.vercel.app/)
-
 ### Client portfolio websites
 
 <a href="https://dr-anshakhadim.space-z.ai/">
-  <img src="assets/editorial/project-ansha-khadim-live.svg" width="100%" alt="Dr. Ansha Khadim Portfolio. Live professional portfolio for a physiotherapist, covering clinical practice, education and research.">
+  <img src="assets/editorial/project-ansha-khadim-portfolio.svg" width="100%" alt="Dr. Ansha Khadim Portfolio. Live professional portfolio for a physiotherapist, covering clinical practice, education and research.">
 </a>
-
-[Open Dr. Ansha Khadim’s portfolio](https://dr-anshakhadim.space-z.ai/) · [Private repository](https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web)
 
 <a href="https://github.com/hammadfidasial/dr-haseeb-arshad-porfolio-web">
   <img src="assets/editorial/project-haseeb-arshad.svg" width="100%" alt="Dr. Haseeb Arshad Portfolio. A professional website for a medical profile. In development. Private GitHub repository.">
@@ -68,14 +58,21 @@
   <img src="assets/editorial/project-ali-safdar.svg" width="100%" alt="Ali Safdar Portfolio. A professional website for a mechanical engineering profile. In development. Private GitHub repository.">
 </a>
 
-Repository links require GitHub access.
+Repository links require GitHub access. [Private repository for Dr. Ansha Khadim’s portfolio](https://github.com/hammadfidasial/dr-ansha-khadim-portfolio-web).
 
 <details>
 <summary><b>Other projects</b></summary>
 
 - **Instagram Sales & Support** · Conversational AI for support, voice messages, orders and payment OCR.
-- **School Management System** · Attendance, marks and report cards. [Visit the public school website](https://lms.khatoonepakistan.workers.dev/)
-- **AI Automation Portfolio** · Service and project showcase with document requests. [Open the AI automation portfolio](https://ai.hammadfidasial.workers.dev/)
+
+<a href="https://lms.khatoonepakistan.workers.dev/">
+  <img src="assets/editorial/project-kps-school-website.svg" width="100%" alt="Open Khatoon-e-Pakistan School Website. Public website for Khatoon-e-Pakistan Government Girls Secondary School.">
+</a>
+
+<a href="https://ai.hammadfidasial.workers.dev/">
+  <img src="assets/editorial/project-ai-automation-portfolio.svg" width="100%" alt="Open AI Automation Portfolio. Services, featured projects and automation demos.">
+</a>
+
 
 </details>
 

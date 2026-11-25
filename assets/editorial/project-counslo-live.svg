@@ -68,6 +68,11 @@
       <rect x="304.4" y="314" width="100.3" height="28" rx="14" fill="#122227" stroke="#315C55"/>
       <text x="354.54999999999995" y="333" class="mono" font-size="13" fill="#A5EFCD" text-anchor="middle" letter-spacing="0.3">Workflows</text>
     </g>
+    <g>
+      <rect x="418" y="314" width="182" height="28" rx="14" fill="#122227" stroke="#315C55"/>
+      <text x="433" y="333" class="mono" font-size="13" fill="#A5EFCD" letter-spacing=".7">OPEN LIVE SITE</text>
+      <path d="M578 332l8-8m-7 0h7v7" fill="none" stroke="#A5EFCD" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
     <g transform="translate(732 57)">
       <rect width="420" height="263" rx="14" fill="#122227" stroke="#315C55"/>
     <rect pathLength="100" class="trace" style="--delay:-2s" x="1" y="1" width="418" height="261" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
