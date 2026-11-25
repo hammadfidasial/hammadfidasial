@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="title desc">
-  <title id="title">Dr. Haseeb Arshad Portfolio</title>
-  <desc id="desc">A professional website for a medical profile. In development. Planned content covers clinical experience and qualifications.</desc>
+  <title id="title">Dr. Samraiz Ramzan Portfolio</title>
+  <desc id="desc">A professional website for a physician profile. In development. Planned content covers medical training and clinical roles.</desc>
   <defs>
     <linearGradient id="base" x2="1" y2="1"><stop stop-color="#0D1418"/><stop offset=".54" stop-color="#14272B"/><stop offset="1" stop-color="#0E1D21"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#186B54" stop-opacity=".64"/><stop offset="1" stop-color="#186B54" stop-opacity="0"/></radialGradient>
@@ -38,36 +38,32 @@
     <rect x="650" width="550" height="365" fill="url(#grid)"/>
     
     <g class="enter" style="--delay:.07s">
-      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">07  ·  CLIENT PORTFOLIO  ·  MEDICINE</text>
-      <text x="47" y="115" class="serif" font-size="52" fill="#F0FCF6">Dr. Haseeb Arshad Portfolio</text>
-      <text x="51" y="156" class="sans" font-size="20" fill="#ABC6BF">A professional website for a medical profile.</text>
-      <text x="52" y="190" class="mono" font-size="15" fill="#A5EFCD">Planned content covers clinical experience and qualifications.</text>
+      <text x="50" y="49" class="mono" font-size="14" fill="#6BD8AF" letter-spacing="1.9">08  ·  CLIENT PORTFOLIO  ·  MEDICINE</text>
+      <text x="47" y="115" class="serif" font-size="52" fill="#F0FCF6">Dr. Samraiz Ramzan Portfolio</text>
+      <text x="51" y="156" class="sans" font-size="20" fill="#ABC6BF">A professional website for a physician profile.</text>
+      <text x="52" y="190" class="mono" font-size="15" fill="#A5EFCD">Planned content covers medical training and clinical roles.</text>
     </g>
     <path class="draw" pathLength="100" d="M50 216h632" stroke="url(#rail)" fill="none"/>
     <g class="enter" style="--delay:0.24s">
       <text x="51" y="262" class="serif" font-size="32" fill="#F0FCF6">Profile</text>
-      <text x="52" y="285" class="sans" font-size="15" fill="#ABC6BF">Professional overview</text>
+      <text x="52" y="285" class="sans" font-size="15" fill="#ABC6BF">Physician overview</text>
     </g>
     <g class="enter" style="--delay:0.37s">
-      <text x="266" y="262" class="serif" font-size="32" fill="#F0FCF6">Experience</text>
-      <text x="267" y="285" class="sans" font-size="15" fill="#ABC6BF">Clinical background</text>
+      <text x="266" y="262" class="serif" font-size="32" fill="#F0FCF6">Clinical</text>
+      <text x="267" y="285" class="sans" font-size="15" fill="#ABC6BF">Roles and rotations</text>
     </g>
     <g class="enter" style="--delay:0.5s">
-      <text x="481" y="262" class="serif" font-size="32" fill="#F0FCF6">Education</text>
-      <text x="482" y="285" class="sans" font-size="15" fill="#ABC6BF">Qualifications</text>
+      <text x="481" y="262" class="serif" font-size="32" fill="#F0FCF6">Training</text>
+      <text x="482" y="285" class="sans" font-size="15" fill="#ABC6BF">Medical education</text>
     </g>
     <g class="enter" style="--delay:0.39s">
       <rect x="51" y="314" width="149" height="28" rx="14" fill="#122227" stroke="#315C55"/>
       <text x="125.5" y="333" class="mono" font-size="13" fill="#A5EFCD" text-anchor="middle" letter-spacing=".3">In development</text>
     </g>
-    <g class="enter" style="--delay:0.51s">
-      <rect x="210" y="314" width="132" height="28" rx="14" fill="#122227" stroke="#315C55"/>
-      <text x="276" y="333" class="mono" font-size="13" fill="#A5EFCD" text-anchor="middle" letter-spacing=".3">Private repo</text>
-    </g>
     <g transform="translate(732 57)">
       <rect width="420" height="263" rx="14" fill="#122227" stroke="#315C55"/>
       <rect x="2" y="2" width="416" height="259" rx="12" fill="url(#grid)"/>
-      <rect pathLength="100" class="trace" style="--delay:-2s" x="1" y="1" width="418" height="261" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <rect pathLength="100" class="trace" style="--delay:-3s" x="1" y="1" width="418" height="261" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
       <text x="21" y="30" class="mono" font-size="11" fill="#6BD8AF" letter-spacing="1.4">PLANNED SITE STRUCTURE</text>
       <path class="draw" pathLength="100" d="M24 55H396V233H24Z" stroke="#315C55" fill="none"/>
       <rect x="28" y="60" width="364" height="167" rx="10" fill="#0D1418" stroke="#315C55"/>
@@ -76,16 +72,16 @@
       <circle cx="54" cy="73" r="3" fill="#557F74"/>
       <circle cx="65" cy="73" r="3" fill="#315C55"/>
       <rect x="43" y="104" width="90" height="104" rx="9" fill="#14272B" stroke="#315C55"/>
-      <circle class="glint" style="--delay:-1s" cx="88" cy="147" r="24" fill="#21413B" stroke="#6BD8AF"/>
-      <text x="88" y="153" class="serif" font-size="19" fill="#F0FCF6" text-anchor="middle">HA</text>
+      <circle class="glint" style="--delay:-2s" cx="88" cy="147" r="24" fill="#21413B" stroke="#6BD8AF"/>
+      <text x="88" y="153" class="serif" font-size="19" fill="#F0FCF6" text-anchor="middle">SR</text>
       <path d="M63 185H113" stroke="#315C55"/>
       <text x="151" y="111" class="mono" font-size="11" fill="#6BD8AF" letter-spacing="1.3">OVERVIEW</text>
       <rect x="151" y="122" width="224" height="22" rx="5" fill="#122227" stroke="#315C55"/>
       <circle cx="161" cy="133" r="2.5" fill="#D6EFA0"/>
-      <text x="171" y="137" class="sans" font-size="12" fill="#ABC6BF">Clinical experience</text>
+      <text x="171" y="137" class="sans" font-size="12" fill="#ABC6BF">Clinical roles</text>
       <rect x="151" y="151" width="224" height="22" rx="5" fill="#122227" stroke="#315C55"/>
       <circle cx="161" cy="162" r="2.5" fill="#D6EFA0"/>
-      <text x="171" y="166" class="sans" font-size="12" fill="#ABC6BF">Qualifications</text>
+      <text x="171" y="166" class="sans" font-size="12" fill="#ABC6BF">Medical training</text>
       <rect x="151" y="180" width="224" height="22" rx="5" fill="#122227" stroke="#315C55"/>
       <circle cx="161" cy="191" r="2.5" fill="#D6EFA0"/>
       <text x="171" y="195" class="sans" font-size="12" fill="#ABC6BF">Professional profile</text>
