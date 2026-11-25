@@ -85,8 +85,6 @@
 <img src="assets/editorial/title-toolkit-profile.svg" width="100%" alt="Toolkit. What I build with.">
 <img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering AI agents and retrieval, n8n and Python automation, Next.js and TypeScript, Supabase, Meta messaging APIs, databases, and AI-assisted development.">
 
-[Explore my expertise](https://maharhammadhussainsial.vercel.app/#expertise) · [See the full tech stack, including Flutter and Dart](https://maharhammadhussainsial.vercel.app/#skills)
-
 <img src="assets/editorial/title-activity-profile.svg" width="100%" alt="Commit log. A year on GitHub.">
 
 <a href="https://github.com/hammadfidasial">
