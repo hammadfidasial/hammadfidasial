@@ -32,6 +32,10 @@
   <img src="assets/editorial/project-whatsapp.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
 </a>
 
+<a href="https://maharhammadhussainsial.vercel.app/">
+  <img src="assets/portfolio-cover.webp" width="100%" alt="Hammad Hussain at his desk, as featured on his portfolio homepage. Open the live portfolio.">
+</a>
+
 <p align="center">
   <a href="https://kps-school-portal.vercel.app/login"><img src="https://img.shields.io/badge/Open%20KPS%20Portal-175746?style=for-the-badge&amp;labelColor=112023" alt="Open the KPS School Portal"></a>
   <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Explore Hammad’s projects"></a>
