@@ -1,5 +1,5 @@
 <a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/editorial/hero.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
+  <img src="assets/editorial/profile-banner.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
 </a>
 
 <p align="center">
@@ -144,5 +144,5 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 </p>
 
 <a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/editorial/signature.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
+  <img src="assets/editorial/profile-footer.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
 </a>
