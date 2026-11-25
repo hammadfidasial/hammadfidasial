@@ -38,9 +38,9 @@ def render(calendar, snake, username):
         groups.append(f'''
     <g transform="translate({x} 70)">
       <g class="metric" style="--delay:{index * .11:.2f}s">
-      <text class="mono" fill="#D792B1" font-size="13" letter-spacing="1.8">{label}</text>
-      <text class="serif" y="48" fill="#FFF2F6" font-size="48">{value}</text>
-      <text class="mono" y="72" fill="#CCB4C0" font-size="12">{detail}</text>
+      <text class="mono" fill="#72DDB6" font-size="13" letter-spacing="1.8">{label}</text>
+      <text class="serif" y="48" fill="#F0FCF6" font-size="48">{value}</text>
+      <text class="mono" y="72" fill="#ABC6BF" font-size="12">{detail}</text>
       </g>
     </g>''')
     stats = "".join(groups)
@@ -59,8 +59,8 @@ def render(calendar, snake, username):
   <title id="title">GitHub contributions for @{handle}</title>
   <desc id="desc">Contribution calendar from {start} to {end}. {metrics[0][1]} contributions, {metrics[1][1]} active days, and a longest streak of {metrics[2][1]} days. The snake is refreshed daily.</desc>
   <defs>
-    <linearGradient id="wine" x2="1" y2="1"><stop stop-color="#160C13"/><stop offset="1" stop-color="#321827"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#803855" stop-opacity=".62"/><stop offset="1" stop-color="#803855" stop-opacity="0"/></radialGradient>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0D1418"/><stop offset="1" stop-color="#183830"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#186B54" stop-opacity=".62"/><stop offset="1" stop-color="#186B54" stop-opacity="0"/></radialGradient>
   </defs>
   <style>
     .mono {{font-family:ui-monospace,Consolas,monospace}}
@@ -74,15 +74,15 @@ def render(calendar, snake, username):
     }}
     @keyframes appear {{from{{opacity:0;transform:translateY(8px)}}}}
   </style>
-  <rect x="1" y="1" width="1198" height="434" rx="19" fill="url(#wine)" stroke="#724358"/>
+  <rect x="1" y="1" width="1198" height="434" rx="19" fill="url(#background)" stroke="#315C55"/>
   <ellipse cx="898" cy="123" rx="296" ry="110" fill="url(#glow)" opacity=".75"/>
-  <path d="M57 163h1087m-826-112v91m283-91v91m283-91v91" stroke="#724358" opacity=".65"/>
+  <path d="M57 163h1087m-826-112v91m283-91v91m283-91v91" stroke="#315C55" opacity=".65"/>
   {stats}
-  <g class="mono" fill="#CCB4C0" font-size="12">{"".join(labels)}</g>
+  <g class="mono" fill="#ABC6BF" font-size="12">{"".join(labels)}</g>
   {preview}
-  <path d="M57 380h1087" stroke="#724358" opacity=".65"/>
-  <text class="mono" x="57" y="409" font-size="13" fill="#CCB4C0">@{handle} · {start} to {end} · Refreshed daily</text>
-  <text class="mono" x="1144" y="409" text-anchor="end" font-size="13" fill="#D792B1">GITHUB CONTRIBUTIONS</text>
+  <path d="M57 380h1087" stroke="#315C55" opacity=".65"/>
+  <text class="mono" x="57" y="409" font-size="13" fill="#ABC6BF">@{handle} · {start} to {end} · Refreshed daily</text>
+  <text class="mono" x="1144" y="409" text-anchor="end" font-size="13" fill="#72DDB6">GITHUB CONTRIBUTIONS</text>
 </svg>
 '''
 

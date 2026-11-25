@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-743552?style=for-the-badge&amp;labelColor=1D1019&amp;logo=vercel&amp;logoColor=FFEFF5" alt="Hammad Hussain’s portfolio"></a>
-  <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-743552?style=for-the-badge&amp;labelColor=1D1019" alt="Hammad Hussain on LinkedIn"></a>
-  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-743552?style=for-the-badge&amp;labelColor=1D1019&amp;logo=gmail&amp;logoColor=FFEFF5" alt="Email Hammad Hussain"></a>
+  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Hammad Hussain’s portfolio"></a>
+  <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
+  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
 </p>
 
 <img src="assets/editorial/title-about.svg" width="100%" alt="About. Hello, I’m Hammad.">
@@ -33,8 +33,8 @@
 </a>
 
 <p align="center">
-  <a href="https://kps-school-portal.vercel.app/login"><img src="https://img.shields.io/badge/Open%20KPS%20Portal-743552?style=for-the-badge&amp;labelColor=1D1019" alt="Open the KPS School Portal"></a>
-  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-743552?style=for-the-badge&amp;labelColor=1D1019&amp;logo=vercel&amp;logoColor=FFEFF5" alt="Explore Hammad’s projects"></a>
+  <a href="https://kps-school-portal.vercel.app/login"><img src="https://img.shields.io/badge/Open%20KPS%20Portal-175746?style=for-the-badge&amp;labelColor=112023" alt="Open the KPS School Portal"></a>
+  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Explore Hammad’s projects"></a>
 </p>
 
 <details>
@@ -52,11 +52,11 @@
 <img src="assets/editorial/title-activity.svg" width="100%" alt="Commit log. A year on GitHub.">
 
 <a href="https://github.com/hammadfidasial">
-  <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contribution-card.svg" width="100%" alt="GitHub activity for Hammad Hussain with an animated contribution snake, total contributions, active days, longest streak and busiest day. Updated daily.">
+  <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contribution-card.svg?palette=emerald" width="100%" alt="GitHub activity for Hammad Hussain with an animated contribution snake, total contributions, active days, longest streak and busiest day. Updated daily.">
 </a>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadfidasial&amp;theme=radical" width="44%" alt="GitHub statistics for Hammad Hussain">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hammadfidasial&amp;theme=github_dark" width="44%" alt="GitHub statistics for Hammad Hussain">
 </p>
 
 <img src="assets/editorial/title-certifications.svg" width="100%" alt="Certifications and professional credentials.">
@@ -113,13 +113,11 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 <img src="assets/editorial/title-connect.svg" width="100%" alt="Connect. Have a workflow in mind?">
 
 <p align="center">
-  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-743552?style=for-the-badge&amp;labelColor=1D1019&amp;logo=vercel&amp;logoColor=FFEFF5" alt="Hammad Hussain’s portfolio"></a>
-  <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-743552?style=for-the-badge&amp;labelColor=1D1019" alt="Hammad Hussain on LinkedIn"></a>
-  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-743552?style=for-the-badge&amp;labelColor=1D1019&amp;logo=gmail&amp;logoColor=FFEFF5" alt="Email Hammad Hussain"></a>
+  <a href="https://maharhammadhussainsial.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=vercel&amp;logoColor=E7FFF3" alt="Hammad Hussain’s portfolio"></a>
+  <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
+  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
 </p>
 
 <a href="https://maharhammadhussainsial.vercel.app/">
   <img src="assets/editorial/signature.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
 </a>
-
-<sub>Design inspiration <a href="https://github.com/Sushmitadasari/Sushmitadasari">Sri Sushmita Dasari</a>.</sub>
