@@ -16,6 +16,10 @@
 
 <img src="assets/editorial/title-work.svg" width="100%" alt="Selected Work. Applications and portfolio websites.">
 
+<a href="https://maharhammadhussainsial.vercel.app/">
+  <img src="assets/portfolio-homepage.webp" width="100%" alt="Hammad Hussain’s live portfolio homepage. Technology is not the destination. It’s where possibilities begin.">
+</a>
+
 <a href="https://kps-school-portal.vercel.app/login">
   <img src="assets/editorial/project-kps.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
 </a>
@@ -30,10 +34,6 @@
 
 <a href="https://maharhammadhussainsial.vercel.app/">
   <img src="assets/editorial/project-whatsapp.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
-</a>
-
-<a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/portfolio-hero-preview.svg" width="100%" alt="Hammad Hussain’s live portfolio homepage. Technology is not the destination. It’s where possibilities begin.">
 </a>
 
 <p align="center">
