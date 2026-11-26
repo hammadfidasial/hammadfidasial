@@ -1,163 +1,107 @@
-<img src="assets/editorial/profile-banner.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
+<div align="center">
+  <a href="https://maharhammadhussainsial.vercel.app">
+    <img src="./assets/profile-banner.svg" alt="Hammad Hussain — Full-Stack Web Developer & AI Automation Specialist" width="100%" />
+  </a>
+</div>
 
-<img src="assets/editorial/title-about-profile.svg" width="100%" alt="About. Hello, I’m Hammad.">
-<img src="assets/editorial/about.svg" width="100%" alt="Hammad builds AI agents, automation workflows, and full-stack apps for sales, support and daily operations using n8n, retrieval, voice, CRMs and messaging integrations.">
+<br />
 
-<img src="assets/editorial/title-experience-profile.svg" width="100%" alt="Education and experience.">
-<img src="assets/editorial/education-and-experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, and CTO at Counslo. Earlier experience includes e-commerce and data management and study-abroad research.">
+<div align="center">
+  <a href="https://maharhammadhussainsial.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Portfolio-maharhammadhussainsial.vercel.app-8df1d0?style=for-the-badge&logo=vercel&logoColor=091316&labelColor=102024" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/923006300881">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-8df1d0?style=for-the-badge&logo=whatsapp&logoColor=091316&labelColor=102024" alt="WhatsApp" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hammadfida1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hammadfida1@gmail.com-8df1d0?style=for-the-badge&logo=gmail&logoColor=091316&labelColor=102024" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/maharhammadhussainsial">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8df1d0?style=for-the-badge&logo=linkedin&logoColor=091316&labelColor=102024" alt="LinkedIn" />
+  </a>
+</div>
 
-<details>
-<summary><b>Full experience and education</b></summary>
+---
 
-| Role | Organization | Dates |
-| --- | --- | --- |
-| Chief Technology Officer | Counslo Educating Generations · Part-time | Oct 2026 – Present |
-| International Career &amp; Application Support Consultant | Counslo Educating Generations · Part-time | Oct 2026 – Present |
-| Freelance Web &amp; AI Automation Developer | Self-employed | Feb 2026 – Present |
-| Research &amp; Development Intern | Counslo Educating Generations | Aug – Oct 2025 |
-| E-Commerce &amp; Data Manager | Prime Information Technology Group | Jan – Aug 2025 |
+### `● ABOUT ME`
 
-### Education
+I'm a full-stack web developer and AI automation specialist from **Multan, Pakistan**. I build custom web portals, AI agents, and automated workflows that eliminate repetitive manual tasks.
 
-| Qualification | Institution | Period | Result |
-| --- | --- | --- | --- |
-| Bachelor of Science in Computer Science (BSCS) | University of Southern Punjab, Multan | 1 Mar 2022 – 28 Feb 2026 | CGPA 3.25 · 45 courses completed |
-| Intermediate (FSc Pre-Engineering) | Global H.S.S. of Science (For Boys), Mailsi · BISE Multan | 2018–2020 | Marks 577 / 1,100 |
-| Matriculation (Science) | Govt. Public High School Dokota, Mailsi · BISE Multan | 2016–2018 | Marks 933 / 1,100 · Grade A+ |
+My goal is simple: **connect your existing tools into smart, automated workflows so your team can scale without added friction.**
 
-</details>
+---
 
-<img src="assets/editorial/title-work.svg" width="100%" alt="Selected Work. Applications and portfolio websites.">
+### `● WHAT I BUILD`
 
-<a href="https://maharhammadhussainsial.vercel.app/">
-  <img src="assets/portfolio-homepage.webp" width="100%" alt="Hammad Hussain’s live portfolio homepage. Technology is not the destination. It’s where possibilities begin.">
-</a>
-
-<a href="https://kps-school-portal.vercel.app/login">
-  <img src="assets/editorial/project-kps-live.svg" width="100%" alt="KPS School Portal. Attendance, exam results and parent access in one portal. Next.js, TypeScript, Supabase, Vercel.">
-</a>
-
-<a href="https://superior-portal-management.vercel.app/">
-  <img src="assets/editorial/project-superior-profile.svg" width="100%" alt="Open the Superior College Portal. Campus portal for students, faculty and administration.">
-</a>
-
-<a href="https://counslo-website.vercel.app/">
-  <img src="assets/editorial/project-counslo-live.svg" width="100%" alt="Counslo Admissions Platform. Organizes study-abroad applications and consultancy workflows. Admissions, Applications, Workflows.">
-</a>
-
-<a href="https://maharhammadhussainsial.vercel.app/#agentic-ai-project-manager">
-  <img src="assets/editorial/project-manager-profile.svg" width="100%" alt="Agentic AI Project Manager. Suggests who should take on a task and when it could be due. AI agents, Task planning, FYP.">
-</a>
-
-<a href="https://maharhammadhussainsial.vercel.app/#whatsapp-personal-assistant">
-  <img src="assets/editorial/project-whatsapp-profile.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
-</a>
-
-### Client portfolio websites
-
-<a href="https://dr-anshakhadim.space-z.ai/">
-  <img src="assets/editorial/project-ansha-khadim-portfolio.svg" width="100%" alt="Dr. Ansha Khadim Portfolio. Live professional portfolio for a physiotherapist, covering clinical practice, education and research.">
-</a>
-
-<img src="assets/editorial/project-haseeb-arshad-portfolio.svg" width="100%" alt="Dr. Haseeb Arshad Portfolio. A professional website for a medical profile. In development.">
-
-<img src="assets/editorial/project-samraiz-ramzan-portfolio.svg" width="100%" alt="Dr. Samraiz Ramzan Portfolio. A professional website for a physician profile. In development.">
-
-<img src="assets/editorial/project-ali-safdar-portfolio.svg" width="100%" alt="Ali Safdar Portfolio. A professional website for a mechanical engineering profile. In development.">
-
-<details>
-<summary><b>Other projects</b></summary>
-
-<a href="https://maharhammadhussainsial.vercel.app/#instagram-sales-support">
-  <img src="assets/editorial/project-instagram-sales-support-card.svg" width="100%" alt="10. Instagram Sales &amp; Support. An AI assistant for Instagram sales and customer support. Handles voice messages, orders and payment receipts.">
-</a>
-
-<a href="https://lms.khatoonepakistan.workers.dev/">
-  <img src="assets/editorial/project-kps-school-website-card.svg" width="100%" alt="11. Khatoon-e-Pakistan School Website. The public website for a government girls’ school in Karachi. School information, announcements and campus life for families.">
-</a>
-
-<a href="https://ai.hammadfidasial.workers.dev/">
-  <img src="assets/editorial/project-ai-automation-portfolio-card.svg" width="100%" alt="12. AI Automation Portfolio. A showcase of automation services, projects and prototypes. Explore AI agents, integrations and interactive demos.">
-</a>
-
-</details>
-
-<img src="assets/editorial/title-toolkit-profile.svg" width="100%" alt="Toolkit. What I build with.">
-<img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering AI agents and retrieval, n8n and Python automation, Next.js and TypeScript, Supabase, Meta messaging APIs, databases, and AI-assisted development.">
-
-<img src="assets/editorial/title-activity-profile.svg" width="100%" alt="Commit log. A year on GitHub.">
-
-<a href="https://github.com/hammadfidasial">
-  <img src="https://raw.githubusercontent.com/hammadfidasial/hammadfidasial/profile-activity/contribution-card.svg?palette=emerald" width="100%" alt="GitHub activity for Hammad Hussain with an animated contribution snake, total contributions, active days, longest streak and busiest day. Updated daily.">
-</a>
-
-<img src="assets/editorial/title-certifications-profile.svg" width="100%" alt="Certifications and professional credentials.">
-<img src="assets/editorial/certificates.svg" width="100%" alt="One Million Prompters, ten BeyondTahir Academy certificates, six NDA Digital Skills certificates, and Generative AI Studio from Google Cloud via Simplilearn SkillUP.">
-
-<details>
-<summary><b>View all certificates, credential IDs & verification links</b></summary>
-
-### 🌍 One Million Prompters
-
-**Certificate of completion** · Dubai Future Foundation & Dubai Centre for Artificial Intelligence  
-Training in prompt engineering for AI systems.  
-**Credential ID / verification link:** Not printed on the supplied certificate.
-
-### 🧠 BeyondTahir Academy · 10 Certificates
-
-Issued **22 October 2026**. Document types are shown as printed on the certificates. Verification links were decoded directly from their QR codes; current verification results have not been independently confirmed.
-
-| Programme | Certificate type | Credential ID | Verification |
-| :--- | :--- | :--- | :--- |
-| Introduction to Generative AI | Completion | BTA-2026-1124C2 | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-1124C2) |
-| AI Agents & Automation for Beginners | Completion | BTA-2026-9AED1E | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-9AED1E) |
-| AI for Content Creation | Completion | BTA-2026-3F909A | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-3F909A) |
-| RAG Engineering: Build AI That Knows Your Data | Completion | BTA-2026-782D2C | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-782D2C) |
-| Intro to AI for Humans | Completion | BTA-2026-FB72E5 | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-FB72E5) |
-| Certification in Prompt Engineering (BTA-CPE) | Appreciation | BTA-2026-17D3EE | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-17D3EE) |
-| No Code: Build Anything Without Coding | Appreciation | BTA-2026-298135 | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-298135) |
-| AI for Students: From Learning to Earning | Appreciation | BTA-2026-3C64DC | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-3C64DC) |
-| AI for Doctors & Researchers | Appreciation | BTA-2026-5EC1E7 | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-5EC1E7) |
-| Applied AI in Law | Appreciation | BTA-2026-70F1D3 | [Verify](https://academy.beyondtahir.com/verify/BTA-2026-70F1D3) |
-
-### 🎨 NDA Digital Skills · 6 Certificates
-
-Six **1.5-month courses**, with certificates of completion issued **6 June 2026**.
-
-| Programme | Credential ID |
+| Capability | Outcome & Focus |
 | :--- | :--- |
-| AI Social Media Marketing | 22840 |
-| Canva & Freelancing | 57595 |
-| Microsoft Office | 96386 |
-| SEO Content Writing With AI | 48617 |
-| Spoken English | 38966 |
-| Video Editing & AI | 10469 |
+| **01 · AI Agents & Retrieval** | Knowledge retrieval (RAG), tool calling, voice & document AI assistants trained on private business data. |
+| **02 · Workflow Automation** | End-to-end process orchestration, cross-app data sync, and custom API pipelines with zero manual handoffs. |
+| **03 · Full-Stack Web Portals** | Role-based institutional portals, admissions dashboards, and high-contrast custom brand websites. |
+| **04 · Messaging Integrations** | Customer support bots, lead & order flows, and omnichannel chat across WhatsApp, Instagram & Messenger. |
 
-**Verification:** Open the [official NDA portal](https://portal.nda.com.pk/), choose **Certificate Verification**, and enter the credential ID. These IDs are transcribed from my digital certificates; online acceptance has not been confirmed.
+---
 
-### ☁️ Additional Training
+### `● TECH STACK`
 
-**Introduction to Generative AI Studio** · Google Cloud course via Simplilearn SkillUP · 2026  
-*Listed in my resume. Credential ID and verification link were not available in the reviewed materials.*
+#### `AI & Automation`
+![Python](https://img.shields.io/badge/Python-102024?style=flat-square&logo=python&logoColor=8df1d0)
+![Google GenAI](https://img.shields.io/badge/Google_GenAI_&_Groq_SDK-102024?style=flat-square&logo=googlegemini&logoColor=8df1d0)
+![RAG](https://img.shields.io/badge/RAG_&_Vector_Databases-102024?style=flat-square&logo=databricks&logoColor=8df1d0)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-102024?style=flat-square&logo=openai&logoColor=8df1d0)
+![Voice AI & OCR](https://img.shields.io/badge/Voice_AI_&_OCR-102024?style=flat-square&logo=probot&logoColor=8df1d0)
+![n8n](https://img.shields.io/badge/n8n-102024?style=flat-square&logo=n8n&logoColor=8df1d0)
+![Codex & Claude Code](https://img.shields.io/badge/Codex_&_Claude_Code-102024?style=flat-square&logo=anthropic&logoColor=8df1d0)
+![Lovable & Trae](https://img.shields.io/badge/Lovable_&_Trae-102024?style=flat-square&logo=sparkles&logoColor=8df1d0)
 
-| Additional training | Provider | Date or status |
-| --- | --- | --- |
-| Huawei Certified Cloud Developer Associate – AI (HCCDA-AI) | Corvit Systems, Multan | 2026 · Training in progress |
-| Cisco Certified Network Associate (CCNA) | Corvit Systems, Islamabad | 2021 |
-| Microsoft Certified Systems Engineer (MCSE) | Corvit Systems, Islamabad | 2021 |
+#### `Frontend & Full-Stack`
+![Next.js](https://img.shields.io/badge/Next.js_&_React-102024?style=flat-square&logo=nextdotjs&logoColor=8df1d0)
+![TypeScript](https://img.shields.io/badge/TypeScript_&_JavaScript-102024?style=flat-square&logo=typescript&logoColor=8df1d0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_&_Radix_UI-102024?style=flat-square&logo=tailwindcss&logoColor=8df1d0)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-102024?style=flat-square&logo=framer&logoColor=8df1d0)
+![Node.js & Express](https://img.shields.io/badge/Node.js_&_Express-102024?style=flat-square&logo=nodedotjs&logoColor=8df1d0)
+![Vite](https://img.shields.io/badge/Vite-102024?style=flat-square&logo=vite&logoColor=8df1d0)
+![Zod & TanStack Query](https://img.shields.io/badge/Zod_&_TanStack_Query-102024?style=flat-square&logo=reactquery&logoColor=8df1d0)
 
-[Browse the 21 credentials and courses on my portfolio](https://maharhammadhussainsial.vercel.app/#certifications).
+#### `Data, Auth & Cloud`
+![Supabase & PostgreSQL](https://img.shields.io/badge/Supabase_&_PostgreSQL-102024?style=flat-square&logo=supabase&logoColor=8df1d0)
+![Prisma & Cloudflare D1](https://img.shields.io/badge/Prisma_&_Cloudflare_D1-102024?style=flat-square&logo=prisma&logoColor=8df1d0)
+![Firebase](https://img.shields.io/badge/Firebase-102024?style=flat-square&logo=firebase&logoColor=8df1d0)
+![Auth.js](https://img.shields.io/badge/Auth.js_(NextAuth)-102024?style=flat-square&logo=auth0&logoColor=8df1d0)
+![Vercel & Cloudflare](https://img.shields.io/badge/Vercel_&_Cloudflare-102024?style=flat-square&logo=cloudflare&logoColor=8df1d0)
+![Docker & GitHub](https://img.shields.io/badge/Docker_&_GitHub-102024?style=flat-square&logo=docker&logoColor=8df1d0)
 
-</details>
+#### `APIs & Integrations`
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-102024?style=flat-square&logo=whatsapp&logoColor=8df1d0)
+![Instagram & Messenger](https://img.shields.io/badge/Instagram_&_Messenger-102024?style=flat-square&logo=instagram&logoColor=8df1d0)
+![Meta Graph API](https://img.shields.io/badge/Meta_Graph_API-102024?style=flat-square&logo=meta&logoColor=8df1d0)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-102024?style=flat-square&logo=google&logoColor=8df1d0)
+![REST APIs](https://img.shields.io/badge/REST_APIs-102024?style=flat-square&logo=fastapi&logoColor=8df1d0)
 
-<img src="assets/editorial/title-connect-profile.svg" width="100%" alt="Connect. Have a workflow in mind?">
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
-  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
-  <a href="https://wa.me/923185457325?text=Hello%20Hammad%2C%20I%20would%20like%20to%20talk%20about%20automating%20my%20workflow."><img src="https://img.shields.io/badge/WhatsApp-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=whatsapp&amp;logoColor=E7FFF3" alt="WhatsApp"></a>
-  <a href="https://www.instagram.com/maharhammadhussainsial/"><img src="https://img.shields.io/badge/Instagram-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=instagram&amp;logoColor=E7FFF3" alt="Instagram"></a>
-  <a href="https://www.facebook.com/maharhammadhussainsial"><img src="https://img.shields.io/badge/Facebook-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=facebook&amp;logoColor=E7FFF3" alt="Facebook"></a>
-</p>
+### `● FEATURED SYSTEMS & PORTALS`
 
-<img src="assets/editorial/profile-footer.svg" width="100%" alt="Hammad Hussain. Open to AI automation projects and collaboration.">
+* **KPS School Portal** — Multi-role academic operations platform centralizing attendance, timetables, and exam results publishing *(Next.js, TypeScript, Supabase, Vercel)*.
+* **Superior College Portal** — Unified academic management system streamlining classes, attendance, results, and fee records *(Next.js, Supabase, PostgreSQL)*.
+* **Counslo Admissions Platform** — University discovery, study-abroad application tracking, and staff collaboration workspace *(Next.js, TypeScript, Prisma, Supabase)*.
+* **Agentic AI Project Manager** — Intelligent task planning, team capacity balancing, and automated deadline recommendations *(AI Agents, Tool Calling, REST APIs)*.
+
+---
+
+<div align="center">
+  <a href="https://github.com/hammadfidasial">
+    <img src="https://img.shields.io/badge/GitHub-102024?style=for-the-badge&logo=github&logoColor=8df1d0" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/maharhammadhussainsial">
+    <img src="https://img.shields.io/badge/LinkedIn-102024?style=for-the-badge&logo=linkedin&logoColor=8df1d0" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/maharhammadhussainsial/">
+    <img src="https://img.shields.io/badge/Instagram-102024?style=for-the-badge&logo=instagram&logoColor=8df1d0" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/maharhammadhussainsial">
+    <img src="https://img.shields.io/badge/Facebook-102024?style=for-the-badge&logo=facebook&logoColor=8df1d0" alt="Facebook" />
+  </a>
+  <br /><br />
+  <sub>© 2026 Hammad Hussain • <a href="https://maharhammadhussainsial.vercel.app">maharhammadhussainsial.vercel.app</a></sub>
+</div>
