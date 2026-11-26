@@ -1,7 +1,7 @@
 <img src="assets/editorial/profile-banner.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
 
 <img src="assets/editorial/title-about-profile.svg" width="100%" alt="About. Hello, I’m Hammad.">
-<img src="assets/editorial/about.svg" width="100%" alt="Hammad builds AI agents, automation workflows, and full-stack apps for sales, support and daily operations using n8n, retrieval, voice, CRMs and messaging integrations.">
+<img src="assets/editorial/about.svg" width="100%" alt="Full-stack web developer and AI automation specialist from Multan, Pakistan. Building custom web portals, AI agents, and automated workflows that eliminate repetitive manual tasks.">
 
 <img src="assets/editorial/title-experience-profile.svg" width="100%" alt="Education and experience.">
 <img src="assets/editorial/education-and-experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, and CTO at Counslo. Earlier experience includes e-commerce and data management and study-abroad research.">
@@ -83,7 +83,7 @@
 </details>
 
 <img src="assets/editorial/title-toolkit-profile.svg" width="100%" alt="Toolkit. What I build with.">
-<img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering AI agents and retrieval, n8n and Python automation, Next.js and TypeScript, Supabase, Meta messaging APIs, databases, and AI-assisted development.">
+<img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering Python, Google GenAI, Groq SDK, RAG, n8n, Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Supabase, Prisma, Cloudflare D1, Docker, Vercel, Meta Graph APIs, and AI-assisted development.">
 
 <img src="assets/editorial/title-activity-profile.svg" width="100%" alt="Commit log. A year on GitHub.">
 
@@ -154,7 +154,7 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
-  <a href="mailto:hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
   <a href="https://wa.me/923185457325?text=Hello%20Hammad%2C%20I%20would%20like%20to%20talk%20about%20automating%20my%20workflow."><img src="https://img.shields.io/badge/WhatsApp-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=whatsapp&amp;logoColor=E7FFF3" alt="WhatsApp"></a>
   <a href="https://www.instagram.com/maharhammadhussainsial/"><img src="https://img.shields.io/badge/Instagram-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=instagram&amp;logoColor=E7FFF3" alt="Instagram"></a>
   <a href="https://www.facebook.com/maharhammadhussainsial"><img src="https://img.shields.io/badge/Facebook-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=facebook&amp;logoColor=E7FFF3" alt="Facebook"></a>
