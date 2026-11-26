@@ -154,7 +154,7 @@ Six **1.5-month courses**, with certificates of completion issued **6 June 2026*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maharhammadhussainsial"><img src="https://img.shields.io/badge/LinkedIn-175746?style=for-the-badge&amp;labelColor=112023" alt="Hammad Hussain on LinkedIn"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hammadfida1@gmail.com"><img src="https://img.shields.io/badge/Email-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=gmail&amp;logoColor=E7FFF3" alt="Email Hammad Hussain"></a>
   <a href="https://wa.me/923185457325?text=Hello%20Hammad%2C%20I%20would%20like%20to%20talk%20about%20automating%20my%20workflow."><img src="https://img.shields.io/badge/WhatsApp-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=whatsapp&amp;logoColor=E7FFF3" alt="WhatsApp"></a>
   <a href="https://www.instagram.com/maharhammadhussainsial/"><img src="https://img.shields.io/badge/Instagram-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=instagram&amp;logoColor=E7FFF3" alt="Instagram"></a>
   <a href="https://www.facebook.com/maharhammadhussainsial"><img src="https://img.shields.io/badge/Facebook-175746?style=for-the-badge&amp;labelColor=112023&amp;logo=facebook&amp;logoColor=E7FFF3" alt="Facebook"></a>
