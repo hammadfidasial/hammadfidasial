@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="495" viewBox="0 0 1200 495" role="img" aria-labelledby="title desc">
+  <title id="title">Toolkit</title>
+  <desc id="desc">AI agents, retrieval and tool calling. Automation with n8n and Python. Full-stack applications with Next.js and Supabase. Messaging with Meta APIs. Cloud, SQL and AI-assisted development.</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1"><stop stop-color="#0D1418"/><stop offset=".54" stop-color="#14272B"/><stop offset="1" stop-color="#0E1D21"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#186B54" stop-opacity=".64"/><stop offset="1" stop-color="#186B54" stop-opacity="0"/></radialGradient>
+    <linearGradient id="type"><stop stop-color="#F0FCF6"/><stop offset="1" stop-color="#57D9A7"/></linearGradient>
+    <linearGradient id="rail"><stop stop-color="#315C55" stop-opacity=".25"/><stop offset=".47" stop-color="#A5EFCD"/><stop offset="1" stop-color="#315C55" stop-opacity=".25"/></linearGradient>
+    <linearGradient id="sheen"><stop stop-color="#A5EFCD" stop-opacity="0"/><stop offset=".52" stop-color="#A5EFCD" stop-opacity=".32"/><stop offset="1" stop-color="#A5EFCD" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" fill="none" stroke="#6BD8AF" stroke-opacity=".13"/></pattern>
+    <clipPath id="panel"><rect width="1200" height="495" rx="19"/></clipPath>
+  </defs>
+  <style>
+    .serif{font-family:Georgia,"Times New Roman",serif}
+    .mono{font-family:ui-monospace,"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .sans{font-family:system-ui,"Segoe UI",sans-serif}
+    .beam,.spark{display:none}
+    .border{opacity:.55}
+    @media (prefers-reduced-motion:no-preference){
+      .enter{animation:enter .85s cubic-bezier(.21,.7,.25,1) both;animation-delay:var(--delay,0s)}
+      .draw{animation:draw 1.55s ease-out both;animation-delay:var(--delay,0s)}
+      .blink{animation:blink 1.25s steps(1) infinite}
+      .beam{display:inline;animation:beam 8s linear infinite;animation-delay:var(--delay,0s)}
+      .spark{display:inline}
+      .glint{animation:glint 3.5s ease-in-out infinite;animation-delay:var(--delay,0s)}
+      .trace{stroke-dasharray:13 87;animation:trace 5.8s linear infinite;animation-delay:var(--delay,0s)}
+    }
+    @keyframes enter{from{opacity:0;transform:translateY(12px)}}
+    @keyframes draw{from{stroke-dasharray:100;stroke-dashoffset:100}to{stroke-dasharray:100;stroke-dashoffset:0}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes beam{0%,8%{transform:translateX(0);opacity:0}12%{opacity:.7}48%,100%{transform:translateX(var(--slide,1050px));opacity:0}}
+    @keyframes glint{50%{opacity:.25}}
+    @keyframes trace{to{stroke-dashoffset:-100}}
+  </style>
+  <g clip-path="url(#panel)">
+    <rect width="1200" height="495" fill="url(#base)"/>
+    <ellipse cx="895" cy="0" rx="600" ry="625" fill="url(#glow)" opacity=".55"/>
+    <rect x="650" width="550" height="495" fill="url(#grid)"/>
+    
+    <path d="M206 120H993M206 367H993M206 120V367M599 120V367M993 120V367" fill="none" stroke="#315C55"/>
+    <path class="trace" pathLength="100" d="M206 120H993V367H206V120M599 120V367" fill="none" stroke="#6BD8AF"/>
+    <g transform="translate(403 247)" fill="none" stroke="#6BD8AF" opacity=".55">
+    <path d="M0-37 37 0 0 37-37 0Z"/><circle r="23"/>
+    <path d="M0-30v60M-30 0h60" stroke-dasharray="2 5"/>
+    <path class="trace" pathLength="100" d="M0-37 37 0 0 37-37 0Z" stroke="#A5EFCD" stroke-width="2"/>
+    <circle r="6" fill="#D6EFA0" stroke="none" class="glint"/>
+    </g>
+    <g transform="translate(795 247)" fill="none" stroke="#6BD8AF" opacity=".55">
+    <path d="M0-37 37 0 0 37-37 0Z"/><circle r="23"/>
+    <path d="M0-30v60M-30 0h60" stroke-dasharray="2 5"/>
+    <path class="trace" pathLength="100" d="M0-37 37 0 0 37-37 0Z" stroke="#A5EFCD" stroke-width="2"/>
+    <circle r="6" fill="#D6EFA0" stroke="none" class="glint"/>
+    </g>
+    <g transform="translate(32 31)">
+      <g class="enter" style="--delay:0.1s">
+
+      <rect width="348" height="194" rx="14" fill="#122227" stroke="#315C55"/>
+    <rect pathLength="100" class="trace" style="--delay:0s" x="1" y="1" width="346" height="192" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <text x="23" y="40" class="mono" font-size="13" fill="#6BD8AF" letter-spacing="1.9">AI AGENTS</text>
+      <text x="21" y="91" class="serif" font-size="31" fill="#F0FCF6">RAG &amp; tool calling</text>
+      <text x="23" y="128" class="sans" font-size="18" fill="#A5EFCD">Google GenAI & Groq SDK</text>
+      <text x="23" y="156" class="sans" font-size="18" fill="#ABC6BF">Vector DBs · Voice AI · OCR</text>
+    </g>
+    </g>
+    <g transform="translate(426 31)">
+      <g class="enter" style="--delay:0.25s">
+
+      <rect width="348" height="194" rx="14" fill="#122227" stroke="#315C55"/>
+    <rect pathLength="100" class="trace" style="--delay:-0.67s" x="1" y="1" width="346" height="192" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <text x="23" y="40" class="mono" font-size="13" fill="#6BD8AF" letter-spacing="1.9">AUTOMATION</text>
+      <text x="21" y="91" class="serif" font-size="31" fill="#F0FCF6">n8n &amp; Python</text>
+      <text x="23" y="128" class="sans" font-size="18" fill="#A5EFCD">Webhooks · REST APIs</text>
+      <text x="23" y="156" class="sans" font-size="18" fill="#ABC6BF">Google Workspace</text>
+    </g>
+    </g>
+    <g transform="translate(820 31)">
+      <g class="enter" style="--delay:0.4s">
+
+      <rect width="348" height="194" rx="14" fill="#122227" stroke="#315C55"/>
+    <rect pathLength="100" class="trace" style="--delay:-1.34s" x="1" y="1" width="346" height="192" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <text x="23" y="40" class="mono" font-size="13" fill="#6BD8AF" letter-spacing="1.9">FULL-STACK WEB</text>
+      <text x="21" y="91" class="serif" font-size="31" fill="#F0FCF6">Next.js &amp; TypeScript</text>
+      <text x="23" y="128" class="sans" font-size="18" fill="#A5EFCD">TypeScript · Tailwind CSS</text>
+      <text x="23" y="156" class="sans" font-size="18" fill="#ABC6BF">Radix UI · Framer Motion</text>
+    </g>
+    </g>
+    <g transform="translate(32 272)">
+      <g class="enter" style="--delay:0.5499999999999999s">
+
+      <rect width="348" height="194" rx="14" fill="#122227" stroke="#315C55"/>
+    <rect pathLength="100" class="trace" style="--delay:-2.0100000000000002s" x="1" y="1" width="346" height="192" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <text x="23" y="40" class="mono" font-size="13" fill="#6BD8AF" letter-spacing="1.9">MESSAGING</text>
+      <text x="21" y="91" class="serif" font-size="31" fill="#F0FCF6">Meta Graph API</text>
+      <text x="23" y="128" class="sans" font-size="18" fill="#A5EFCD">WhatsApp · Instagram</text>
+      <text x="23" y="156" class="sans" font-size="18" fill="#ABC6BF">Messenger</text>
+    </g>
+    </g>
+    <g transform="translate(426 272)">
+      <g class="enter" style="--delay:0.7s">
+
+      <rect width="348" height="194" rx="14" fill="#122227" stroke="#315C55"/>
+    <rect pathLength="100" class="trace" style="--delay:-2.68s" x="1" y="1" width="346" height="192" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <text x="23" y="40" class="mono" font-size="13" fill="#6BD8AF" letter-spacing="1.9">CLOUD &amp; DATA</text>
+      <text x="21" y="91" class="serif" font-size="31" fill="#F0FCF6">SQL &amp; Supabase</text>
+      <text x="23" y="128" class="sans" font-size="18" fill="#A5EFCD">Prisma · Cloudflare D1</text>
+      <text x="23" y="156" class="sans" font-size="18" fill="#ABC6BF">Docker · Vercel · GitHub</text>
+    </g>
+    </g>
+    <g transform="translate(820 272)">
+      <g class="enter" style="--delay:0.85s">
+
+      <rect width="348" height="194" rx="14" fill="#122227" stroke="#315C55"/>
+    <rect pathLength="100" class="trace" style="--delay:-3.35s" x="1" y="1" width="346" height="192" rx="13" fill="none" stroke="url(#rail)" stroke-width="1.2" opacity=".72"/>
+      <text x="23" y="40" class="mono" font-size="13" fill="#6BD8AF" letter-spacing="1.9">BACKEND & AI TOOLS</text>
+      <text x="21" y="91" class="serif" font-size="31" fill="#F0FCF6">Codex &amp; Claude Code</text>
+      <text x="23" y="128" class="sans" font-size="18" fill="#A5EFCD">Auth.js · Zod · Vite</text>
+      <text x="23" y="156" class="sans" font-size="18" fill="#ABC6BF">Codex · Claude Code · Trae</text>
+    </g>
+    </g>
+    <rect x=".6" y=".6" width="1198.8" height="493.8" rx="18.4" fill="none" stroke="#315C55" class="border"/>
+  </g>
+</svg>

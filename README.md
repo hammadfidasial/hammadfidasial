@@ -1,7 +1,7 @@
 <img src="assets/editorial/profile-banner.svg" width="100%" alt="Hammad Hussain, AI Automation and Full-Stack Developer based in Multan, Pakistan. I build AI agents that run your business workflows.">
 
 <img src="assets/editorial/title-about-profile.svg" width="100%" alt="About. Hello, I’m Hammad.">
-<img src="assets/editorial/about.svg" width="100%" alt="Full-stack web developer and AI automation specialist from Multan, Pakistan. Building custom web portals, AI agents, and automated workflows that eliminate repetitive manual tasks.">
+<img src="assets/editorial/about-v2.svg" width="100%" alt="Full-stack web developer and AI automation specialist from Multan, Pakistan. Building custom web portals, AI agents, and automated workflows that eliminate repetitive manual tasks.">
 
 <img src="assets/editorial/title-experience-profile.svg" width="100%" alt="Education and experience.">
 <img src="assets/editorial/education-and-experience.svg" width="100%" alt="BS Computer Science, University of Southern Punjab, and CTO at Counslo. Earlier experience includes e-commerce and data management and study-abroad research.">
@@ -83,7 +83,7 @@
 </details>
 
 <img src="assets/editorial/title-toolkit-profile.svg" width="100%" alt="Toolkit. What I build with.">
-<img src="assets/editorial/toolkit.svg" width="100%" alt="Toolkit covering Python, Google GenAI, Groq SDK, RAG, n8n, Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Supabase, Prisma, Cloudflare D1, Docker, Vercel, Meta Graph APIs, and AI-assisted development.">
+<img src="assets/editorial/toolkit-v2.svg" width="100%" alt="Toolkit covering Python, Google GenAI, Groq SDK, RAG, n8n, Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Supabase, Prisma, Cloudflare D1, Docker, Vercel, Meta Graph APIs, and AI-assisted development.">
 
 <img src="assets/editorial/title-activity-profile.svg" width="100%" alt="Commit log. A year on GitHub.">
 
