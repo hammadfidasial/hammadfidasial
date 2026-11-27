@@ -53,6 +53,10 @@
   <img src="assets/editorial/project-whatsapp-profile.svg" width="100%" alt="WhatsApp Personal Assistant. Handles email, contacts and calendar requests from chat. WhatsApp, Meta API, n8n, Google Workspace.">
 </a>
 
+<a href="https://github.com/hammadfidasial/zero-cost-job-automation">
+  <img src="assets/editorial/project-zero-cost-job-automation.svg" width="100%" alt="Zero-Cost Job Automation. $0/month job application automation using Google Sheets, Apps Script, free Gemini API and Simplify Copilot with drafts-only safety.">
+</a>
+
 ### Client portfolio websites
 
 <a href="https://dr-anshakhadim.space-z.ai/">
