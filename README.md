@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://github.com/hammadfidasial/zero-cost-job-automation">
-  <img src="assets/editorial/project-zero-cost-job-automation.svg?v=3" width="100%" alt="Zero-Cost Job Automation. $0/month job application automation using Google Sheets, Apps Script, free Gemini API and Simplify Copilot with drafts-only safety.">
+  <img src="https://github.com/hammadfidasial/hammadfidasial/raw/147ea95cd5b058e053407db30cd28506aad10097/assets/editorial/project-zero-cost-job-automation.svg" width="100%" alt="Zero-Cost Job Automation. $0/month job application automation using Google Sheets, Apps Script, free Gemini API and Simplify Copilot with drafts-only safety.">
 </a>
 
 ### Client portfolio websites
